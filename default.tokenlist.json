@@ -1,0 +1,84 @@
+{
+  "name": "Default Hermes Token List",
+  "timestamp": "1708656709",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["hermes", "default"],
+  "tokens": [
+    {
+      "chainId": 421614,
+      "globalAddress": "0xe7e66f6d73e7e1e0b341cd3a434101958fa2d441",
+      "localAddress": {
+        "421614": "0x147ab10e7fc9fc32a0394f6ee7ed464392ff94d5"
+      },
+      "underlyingAddress": "0xe763962e4528dab55eadf4522473c066c3d4dd94",
+      "name": "USD Coin Arbitrum Sepolia",
+      "decimals": 6,
+      "symbol": "ArbSep-USDC",
+      "logoURI": ""
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0xda43539d3d59a16df11f3a6936ca518e03dae79b",
+      "localAddress": {
+        "421614": "0xf825be578d24f1940dcea18e938a027e47dc184e"
+      },
+      "underlyingAddress": "0xfBc06526d9Ac66CE7F57A9D8989e9F93Bd236Ab3",
+      "name": "DAI Stable Arbitrum Sepolia",
+      "decimals": 18,
+      "symbol": "ArbSep-DAI",
+      "logoURI": ""
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0xda5733da23aec467f7426e6dbdb39ec5129a12b0",
+      "localAddress": {
+        "421614": "0x84a11c57e5b6fa3e4c7b4ab552cad932e107154d"
+      },
+      "underlyingAddress": "0x2c1d90b740271d930653e3d1a42366e50f45fb2c",
+      "name": "USD Tether Arbitrum Sepolia",
+      "decimals": 6,
+      "symbol": "ArbSep-USDT",
+      "logoURI": ""
+    }
+  ],
+  "rootTokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x6f79350e44a35225870e5fddf55b17574fd77d1a",
+      "name": "USD Circle",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xe978427030e03e60b0386c0c16fa652dd1584960",
+      "name": "DAI Stable",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x376431e1cb639f2cd83e3de0ecb6dd750a4a9c20",
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": ""
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x83E27C85F78294BF24D651D0D35DC9AAB22A86F1 ",
+      "name": "Balancer Test 1",
+      "symbol": "BPT-TEST",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ]
+}
