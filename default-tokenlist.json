@@ -17,10 +17,10 @@
         "421614": "0x147ab10e7fc9fc32a0394f6ee7ed464392ff94d5"
       },
       "underlyingAddress": "0xe763962e4528dab55eadf4522473c066c3d4dd94",
-      "name": "USD Coin Arbitrum Sepolia",
+      "name": "USDCoin",
       "decimals": 6,
       "symbol": "ArbSep-USDC",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "chainId": 421614,
@@ -29,10 +29,10 @@
         "421614": "0xf825be578d24f1940dcea18e938a027e47dc184e"
       },
       "underlyingAddress": "0xfBc06526d9Ac66CE7F57A9D8989e9F93Bd236Ab3",
-      "name": "DAI Stable Arbitrum Sepolia",
+      "name": "Dai Stablecoin",
       "decimals": 18,
       "symbol": "ArbSep-DAI",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
     },
     {
       "chainId": 421614,
@@ -41,28 +41,28 @@
         "421614": "0x84a11c57e5b6fa3e4c7b4ab552cad932e107154d"
       },
       "underlyingAddress": "0x2c1d90b740271d930653e3d1a42366e50f45fb2c",
-      "name": "USD Tether Arbitrum Sepolia",
+      "name": "Tether USD",
       "decimals": 6,
       "symbol": "ArbSep-USDT",
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
   ],
   "rootTokens": [
     {
       "chainId": 11155111,
       "address": "0x6f79350e44a35225870e5fddf55b17574fd77d1a",
-      "name": "USD Circle",
+      "name": "USDCoin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "chainId": 11155111,
       "address": "0xe978427030e03e60b0386c0c16fa652dd1584960",
-      "name": "DAI Stable",
+      "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
     },
     {
       "chainId": 11155111,
@@ -70,7 +70,7 @@
       "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo."
     },
     {
       "chainId": 11155111,
@@ -78,7 +78,7 @@
       "name": "Balancer Test 1",
       "symbol": "BPT-TEST",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
     }
   ]
 }
