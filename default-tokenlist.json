@@ -74,7 +74,7 @@
     },
     {
       "chainId": 11155111,
-      "address": "0x83e27C85f78294Bf24d651d0D35DC9AaB22a86F1 ",
+      "address": "0x83e27C85f78294Bf24d651d0D35DC9AaB22a86F1",
       "name": "Balancer Test 1",
       "symbol": "BPT-TEST",
       "decimals": 18,
