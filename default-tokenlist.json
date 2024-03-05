@@ -2,7 +2,7 @@
   "name": "Default Hermes Token List",
   "timestamp": "1708656709",
   "version": {
-    "major": 2,
+    "major": 1,
     "minor": 0,
     "patch": 0
   },
@@ -103,7 +103,7 @@
       "underlyingAddress": "0xfBc06526d9Ac66CE7F57A9D8989e9F93Bd236Ab3",
       "name": "Dai Stablecoin",
       "decimals": 18,
-      "symbol": "DAI",
+      "symbol": "ArbSep-DAI",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
