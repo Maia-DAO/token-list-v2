@@ -2,7 +2,7 @@
   "name": "Default Hermes Token List",
   "timestamp": "1708656709",
   "version": {
-    "major": 1,
+    "major": 2,
     "minor": 0,
     "patch": 0
   },
@@ -93,6 +93,18 @@
       "decimals": 6,
       "symbol": "ArbSep-USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0xE0eF736043f4D712E6cB5Fb4F346d40d9AD17339",
+      "localAddress": {
+        "421614": "0x652708AE1a574F9Da86428cD213F7CA90F470D47"
+      },
+      "underlyingAddress": "0x980B62Da83eFf3D4576C647993b0c1D7faf17c73",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "ArbSep-WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "chainId": 421614,
