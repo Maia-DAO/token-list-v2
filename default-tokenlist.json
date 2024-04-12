@@ -179,6 +179,14 @@
       "symbol": "WTEST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x42eeB42EB012C8095F5662c897245E121b61DCD8",
+      "name": "AraFi Token",
+      "symbol": "ARA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34.svg"
     }
   ]
 }
