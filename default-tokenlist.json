@@ -2,7 +2,7 @@
   "name": "Default Hermes Token List",
   "timestamp": "1708656709",
   "version": {
-    "major": 5,
+    "major": 6,
     "minor": 0,
     "patch": 0
   },
@@ -12,8 +12,8 @@
   "tokens": [
     {
       "chainId": 11155111,
-      "globalAddress": "0xfc4393abCf2e1a8967c81318949475065325AF15",
-      "underlyingAddress": "0xfc4393abCf2e1a8967c81318949475065325AF15",
+      "globalAddress": "0xC2dC238083fCc1adAD44090cc0802C94Ca1f25E9",
+      "underlyingAddress": "0xC2dC238083fCc1adAD44090cc0802C94Ca1f25E9",
       "name": "Hermes",
       "decimals": 18,
       "symbol": "HERMES",
@@ -21,8 +21,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x279CbD5b81538231A4034f53dFD5Ee4CE12ca537",
-      "underlyingAddress": "0x279CbD5b81538231A4034f53dFD5Ee4CE12ca537",
+      "globalAddress": "0x6B65882F51BD0B5BE9803a3F2e1e895700F371B3",
+      "underlyingAddress": "0x6B65882F51BD0B5BE9803a3F2e1e895700F371B3",
       "name": "Burnt Hermes",
       "decimals": 18,
       "symbol": "bHERMES",
@@ -30,8 +30,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x11D314798fa6E9eb6B129D02d91A6AD18F725CEc",
-      "underlyingAddress": "0x11D314798fa6E9eb6B129D02d91A6AD18F725CEc",
+      "globalAddress": "0x3A8093824b0CDECc9B0c7B0C68B86630dcDe1bEB",
+      "underlyingAddress": "0x3A8093824b0CDECc9B0c7B0C68B86630dcDe1bEB",
       "name": "Burnt Hermes - Gauges",
       "decimals": 18,
       "symbol": "bHERMES-G",
@@ -39,8 +39,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x1A17c9Ca96C31416cEaC4e489E592e8c957ead6a",
-      "underlyingAddress": "0x1A17c9Ca96C31416cEaC4e489E592e8c957ead6a",
+      "globalAddress": "0x8265Aa10EE11f57ed01Bf8ecE5BA57Ef75ED36dc",
+      "underlyingAddress": "0x8265Aa10EE11f57ed01Bf8ecE5BA57Ef75ED36dc",
       "name": "Burnt Hermes - Boost",
       "decimals": 18,
       "symbol": "bHERMES-B",
@@ -48,8 +48,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0xCD9180359863e18BD24D712C9238E41Aa9593C5c",
-      "underlyingAddress": "0xCD9180359863e18BD24D712C9238E41Aa9593C5c",
+      "globalAddress": "0x1A2DC6AA017d6F5b2e538189F655cb2d120dCc4d",
+      "underlyingAddress": "0x1A2DC6AA017d6F5b2e538189F655cb2d120dCc4d",
       "name": "Burnt Hermes - Votes",
       "decimals": 18,
       "symbol": "bHERMES-V",
@@ -57,8 +57,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x2140c1E17ab0f56d36e354F03bFEaf751bf93C0b",
-      "underlyingAddress": "0x2140c1E17ab0f56d36e354F03bFEaf751bf93C0b",
+      "globalAddress": "0x1877F4644eEC61659d7fa40F297f20507b60f75e",
+      "underlyingAddress": "0x1877F4644eEC61659d7fa40F297f20507b60f75e",
       "name": "Maia",
       "decimals": 18,
       "symbol": "MAIA",
@@ -66,8 +66,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x91269bC3bB13567899aeF0061ad8F8cBa7F42117",
-      "underlyingAddress": "0x91269bC3bB13567899aeF0061ad8F8cBa7F42117",
+      "globalAddress": "0x2bc7a31E13B78f37371793dE7629AEC39465E976",
+      "underlyingAddress": "0x2bc7a31E13B78f37371793dE7629AEC39465E976",
       "name": "Vote Maia",
       "decimals": 18,
       "symbol": "vMaia",
@@ -75,8 +75,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0xE69e8Eac315f4D9f8D1C48acBB971bA3857A11Ca",
-      "underlyingAddress": "0xE69e8Eac315f4D9f8D1C48acBB971bA3857A11Ca",
+      "globalAddress": "0x5EA25810EbeD7bcCf4045ed2eF14192DEc79C79f",
+      "underlyingAddress": "0x5EA25810EbeD7bcCf4045ed2eF14192DEc79C79f",
       "name": "Vote Maia - Votes",
       "decimals": 18,
       "symbol": "vMAIA-V",
