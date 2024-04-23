@@ -2,7 +2,7 @@
   "name": "Default Hermes Token List",
   "timestamp": "1708656709",
   "version": {
-    "major": 7,
+    "major": 8,
     "minor": 0,
     "patch": 0
   },
@@ -130,13 +130,13 @@
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
-  {
+    {
       "chainId": 11155420,
-      "globalAddress": "0xD0c3218D68be789F0e90dF382ee47564cAf24416",
+      "globalAddress": "0x0893D6c8705386fF6D98E1A5d3AC94A858c0A16D",
       "localAddress": {
         "11155420": "0x46C5CcaAFf452f6849d1e1D08D602AB78acf8980"
       },
-      "underlyingAddress": "0x280cdd7dbe7d0ba78a16c9b34a43f9a5579ad8ce",
+      "underlyingAddress": "0xd241e83586c58844a54b8769547cc178de925800",
       "name": "USDCoin",
       "decimals": 6,
       "symbol": "USDC",
@@ -156,11 +156,11 @@
     },
     {
       "chainId": 11155420,
-      "globalAddress": "0x0893D6c8705386fF6D98E1A5d3AC94A858c0A16D",
+      "globalAddress": "0xD0c3218D68be789F0e90dF382ee47564cAf24416",
       "localAddress": {
-        "11155420": "0x783f3186d43d29fE4C24be6E0a89bfF0489694c2"
+        "11155420": "0x46C5CcaAFf452f6849d1e1D08D602AB78acf8980"
       },
-      "underlyingAddress": "0xd241e83586c58844a54b8769547cc178de925800",
+      "underlyingAddress": "0x280cdd7dbe7d0ba78a16c9b34a43f9a5579ad8ce",
       "name": "Dai Stablecoin",
       "decimals": 18,
       "symbol": "DAI",
