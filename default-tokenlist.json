@@ -2,7 +2,7 @@
   "name": "Default Hermes Token List",
   "timestamp": "1708656709",
   "version": {
-    "major": 8,
+    "major": 9,
     "minor": 0,
     "patch": 0
   },
@@ -218,7 +218,7 @@
       "name": "Balancer Test 1",
       "symbol": "BPT-TEST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "chainId": 11155111,
@@ -226,7 +226,7 @@
       "name": "Wrapped Balancer Test",
       "symbol": "WTEST",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "chainId": 11155111,
