@@ -1,0 +1,240 @@
+{
+  "name": "Default Hermes Token List",
+  "timestamp": "1718044669",
+  "version": {
+    "major": 10,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "",
+  "keywords": ["hermes", "default"],
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "globalAddress": "0xC2dC238083fCc1adAD44090cc0802C94Ca1f25E9",
+      "underlyingAddress": "0xC2dC238083fCc1adAD44090cc0802C94Ca1f25E9",
+      "name": "Hermes",
+      "decimals": 18,
+      "symbol": "HERMES",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x6B65882F51BD0B5BE9803a3F2e1e895700F371B3",
+      "underlyingAddress": "0x6B65882F51BD0B5BE9803a3F2e1e895700F371B3",
+      "name": "Burnt Hermes",
+      "decimals": 18,
+      "symbol": "bHERMES",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x3A8093824b0CDECc9B0c7B0C68B86630dcDe1bEB",
+      "underlyingAddress": "0x3A8093824b0CDECc9B0c7B0C68B86630dcDe1bEB",
+      "name": "Burnt Hermes - Gauges",
+      "decimals": 18,
+      "symbol": "bHERMES-G",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x8265Aa10EE11f57ed01Bf8ecE5BA57Ef75ED36dc",
+      "underlyingAddress": "0x8265Aa10EE11f57ed01Bf8ecE5BA57Ef75ED36dc",
+      "name": "Burnt Hermes - Boost",
+      "decimals": 18,
+      "symbol": "bHERMES-B",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x1A2DC6AA017d6F5b2e538189F655cb2d120dCc4d",
+      "underlyingAddress": "0x1A2DC6AA017d6F5b2e538189F655cb2d120dCc4d",
+      "name": "Burnt Hermes - Votes",
+      "decimals": 18,
+      "symbol": "bHERMES-V",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0xb27BbeaACA2C00d6258C3118BAB6b5B6975161c8.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x1877F4644eEC61659d7fa40F297f20507b60f75e",
+      "underlyingAddress": "0x1877F4644eEC61659d7fa40F297f20507b60f75e",
+      "name": "Maia",
+      "decimals": 18,
+      "symbol": "MAIA",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x2bc7a31E13B78f37371793dE7629AEC39465E976",
+      "underlyingAddress": "0x2bc7a31E13B78f37371793dE7629AEC39465E976",
+      "name": "Vote Maia",
+      "decimals": 18,
+      "symbol": "vMaia",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x5EA25810EbeD7bcCf4045ed2eF14192DEc79C79f",
+      "underlyingAddress": "0x5EA25810EbeD7bcCf4045ed2eF14192DEc79C79f",
+      "name": "Vote Maia - Votes",
+      "decimals": 18,
+      "symbol": "vMAIA-V",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD.svg"
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0xCC8D941ef812EA08a4aec2F9F90B07d287D6e808",
+      "localAddress": {
+        "421614": "0x7C5ec5b8947337D42Fe31Aac68fFde7534e78c8F"
+      },
+      "underlyingAddress": "0xe763962e4528dab55eadf4522473c066c3d4dd94",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0xDA8A0fb47EBe8F1055c981bAD672970Bc3FBAfaE",
+      "localAddress": {
+        "421614": "0x6679e320eEeEAFc47a20883ebb5F72D05F43333C"
+      },
+      "underlyingAddress": "0x980B62Da83eFf3D4576C647993b0c1D7faf17c73",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0xB7e42E1cE138BA7a90aBF470679F81d81e781519",
+      "localAddress": {
+        "421614": "0xE0Df437725c08F72AEBd876699Ed1813D061a9Ae"
+      },
+      "underlyingAddress": "0xfBc06526d9Ac66CE7F57A9D8989e9F93Bd236Ab3",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 421614,
+      "globalAddress": "0x2Ae422342D116715f4Fa15fC865de0A143E35D24",
+      "localAddress": {
+        "421614": "0x4bfACBF64931B6efbdfDe4A1C92FB05b4ec6bf64"
+      },
+      "underlyingAddress": "0x2c1d90b740271d930653e3d1a42366e50f45fb2c",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 11155420,
+      "globalAddress": "0x0e7Ca5cf8E229B180e1a3F987aC7328B2967af66",
+      "localAddress": {
+        "11155420": "0x7d6C50F720bf7A78b82ee40DF40D380aB1342632"
+      },
+      "underlyingAddress": "0xd241e83586c58844a54b8769547cc178de925800",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 11155420,
+      "globalAddress": "0x0e13cdC6F535431DD708eeC8D828B7302002554B",
+      "localAddress": {
+        "11155420": "0xB98df652F53464dAe8E5aeE61F47B3578c0C7ffF"
+      },
+      "underlyingAddress": "0xAd6A7addf807D846A590E76C5830B609F831Ba2E",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 11155420,
+      "globalAddress": "0xa69B022acAD694a3FC7a01C5391f193Dea898d2F",
+      "localAddress": {
+        "11155420": "0xa95864A4Bc78Ec48a0AF3A1B9B3c219cD2268506"
+      },
+      "underlyingAddress": "0x280cdd7dbe7d0ba78a16c9b34a43f9a5579ad8ce",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 11155420,
+      "globalAddress": "0x9C9BC3e4427Fb49271ea235ED6A8FE5a0D1bcbcA",
+      "localAddress": {
+        "11155420": "0xBAd3D8dc277af2709A1a75247c53A6D48D59176d"
+      },
+      "underlyingAddress": "0x316952d1d2276c2ce78b46f897af641455a3035e",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    }
+  ],
+  "rootTokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x6f79350e44a35225870e5fddf55b17574fd77d1a",
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xe978427030e03e60b0386c0c16fa652dd1584960",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x376431e1cb639f2cd83e3de0ecb6dd750a4a9c20",
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x9ca76a6a635938abF115D555AA39AA6D895A761D",
+      "name": "Curve",
+      "symbol": "CRV",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x83e27C85f78294Bf24d651d0D35DC9AaB22a86F1",
+      "name": "Balancer Test 1",
+      "symbol": "BPT-TEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x55ed738a5C09C494B8666aDE16919bb7CB56E98d",
+      "name": "Wrapped Balancer Test",
+      "symbol": "WTEST",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x42eeB42EB012C8095F5662c897245E121b61DCD8",
+      "name": "AraFi Token",
+      "symbol": "ARA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_c150x150px.png"
+    }
+  ]
+}
