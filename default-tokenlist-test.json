@@ -84,8 +84,8 @@
     },
 {
       "chainId": 11155111,
-      "globalAddress": "0x6423d2D22B9551F2b0AC187d036685bd11389F43",
-      "underlyingAddress": "0x6423d2D22B9551F2b0AC187d036685bd11389F43",
+      "globalAddress": "0x45Fee5D23501928Ba2d202661F9A704fCD27e588",
+      "underlyingAddress": "0x45Fee5D23501928Ba2d202661F9A704fCD27e588",
       "name": "Vote Maia Test",
       "decimals": 18,
       "symbol": "vMaiaTest",
@@ -93,8 +93,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x6EB79fb6e8e313fEcAe851F1370Ec292dbd3B2b1",
-      "underlyingAddress": "0x6EB79fb6e8e313fEcAe851F1370Ec292dbd3B2b1",
+      "globalAddress": "0x8430c075288957eE6380f8430c2633CA50319526",
+      "underlyingAddress": "0x8430c075288957eE6380f8430c2633CA50319526",
       "name": "Vote Maia Test - Votes",
       "decimals": 18,
       "symbol": "vMAIA-V-Test",
