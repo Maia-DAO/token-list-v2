@@ -82,6 +82,24 @@
       "symbol": "vMAIA-V",
       "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD.svg"
     },
+{
+      "chainId": 11155111,
+      "globalAddress": "0x6423d2D22B9551F2b0AC187d036685bd11389F43",
+      "underlyingAddress": "0x6423d2D22B9551F2b0AC187d036685bd11389F43",
+      "name": "Vote Maia Test",
+      "decimals": 18,
+      "symbol": "vMaiaTest",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD.svg"
+    },
+    {
+      "chainId": 11155111,
+      "globalAddress": "0x6EB79fb6e8e313fEcAe851F1370Ec292dbd3B2b1",
+      "underlyingAddress": "0x6EB79fb6e8e313fEcAe851F1370Ec292dbd3B2b1",
+      "name": "Vote Maia Test - Votes",
+      "decimals": 18,
+      "symbol": "vMAIA-V-Test",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x72c232D56542Ba082592DEE7C77b1C6CFA758BCD.svg"
+    },
     {
       "chainId": 421614,
       "globalAddress": "0xCC8D941ef812EA08a4aec2F9F90B07d287D6e808",
