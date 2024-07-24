@@ -12,8 +12,8 @@
   "tokens": [
     {
       "chainId": 11155111,
-      "globalAddress": "0xC2dC238083fCc1adAD44090cc0802C94Ca1f25E9",
-      "underlyingAddress": "0xC2dC238083fCc1adAD44090cc0802C94Ca1f25E9",
+      "globalAddress": "0x34CA145f38aBff21679B958fA067DBF3c021a60D",
+      "underlyingAddress": "0x34CA145f38aBff21679B958fA067DBF3c021a60D",
       "name": "Hermes",
       "decimals": 18,
       "symbol": "HERMES",
@@ -21,8 +21,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x6B65882F51BD0B5BE9803a3F2e1e895700F371B3",
-      "underlyingAddress": "0x6B65882F51BD0B5BE9803a3F2e1e895700F371B3",
+      "globalAddress": "0x12bcE9DBFfD8F20b1B7F74c9A5678f770FCb36b8",
+      "underlyingAddress": "0x12bcE9DBFfD8F20b1B7F74c9A5678f770FCb36b8",
       "name": "Burnt Hermes",
       "decimals": 18,
       "symbol": "bHERMES",
@@ -30,8 +30,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x3A8093824b0CDECc9B0c7B0C68B86630dcDe1bEB",
-      "underlyingAddress": "0x3A8093824b0CDECc9B0c7B0C68B86630dcDe1bEB",
+      "globalAddress": "0xd6154D2C9f5C1e682786aA06c092e9f466f5E068",
+      "underlyingAddress": "0xd6154D2C9f5C1e682786aA06c092e9f466f5E068",
       "name": "Burnt Hermes - Gauges",
       "decimals": 18,
       "symbol": "bHERMES-G",
@@ -39,8 +39,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x8265Aa10EE11f57ed01Bf8ecE5BA57Ef75ED36dc",
-      "underlyingAddress": "0x8265Aa10EE11f57ed01Bf8ecE5BA57Ef75ED36dc",
+      "globalAddress": "0xE2eaCd92208E81c88E629682aeab5646E4f8ed69",
+      "underlyingAddress": "0xE2eaCd92208E81c88E629682aeab5646E4f8ed69",
       "name": "Burnt Hermes - Boost",
       "decimals": 18,
       "symbol": "bHERMES-B",
@@ -48,8 +48,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x1A2DC6AA017d6F5b2e538189F655cb2d120dCc4d",
-      "underlyingAddress": "0x1A2DC6AA017d6F5b2e538189F655cb2d120dCc4d",
+      "globalAddress": "0x4A6D202cd15dD26ca28693Ed8256f5F57fCAf367",
+      "underlyingAddress": "0x4A6D202cd15dD26ca28693Ed8256f5F57fCAf367",
       "name": "Burnt Hermes - Votes",
       "decimals": 18,
       "symbol": "bHERMES-V",
@@ -57,8 +57,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x1877F4644eEC61659d7fa40F297f20507b60f75e",
-      "underlyingAddress": "0x1877F4644eEC61659d7fa40F297f20507b60f75e",
+      "globalAddress": "0xe17F84cA0a338Bb09fe2FBF99DD841F2F5f6F8C2",
+      "underlyingAddress": "0xe17F84cA0a338Bb09fe2FBF99DD841F2F5f6F8C2",
       "name": "Maia",
       "decimals": 18,
       "symbol": "MAIA",
@@ -66,8 +66,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x2bc7a31E13B78f37371793dE7629AEC39465E976",
-      "underlyingAddress": "0x2bc7a31E13B78f37371793dE7629AEC39465E976",
+      "globalAddress": "0xa97B98B822A7fd1CaC21cCCa2E0Df99357C3dC75",
+      "underlyingAddress": "0xa97B98B822A7fd1CaC21cCCa2E0Df99357C3dC75",
       "name": "Vote Maia",
       "decimals": 18,
       "symbol": "vMaia",
@@ -75,8 +75,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x5EA25810EbeD7bcCf4045ed2eF14192DEc79C79f",
-      "underlyingAddress": "0x5EA25810EbeD7bcCf4045ed2eF14192DEc79C79f",
+      "globalAddress": "0x4B620E248C2dB84186e7dd4dc17263b97b5eF34E",
+      "underlyingAddress": "0x4B620E248C2dB84186e7dd4dc17263b97b5eF34E",
       "name": "Vote Maia - Votes",
       "decimals": 18,
       "symbol": "vMAIA-V",
@@ -84,11 +84,11 @@
     },
     {
       "chainId": 421614,
-      "globalAddress": "0xb2cdccf311fd5d3b98f0bcd8d764b23685824971",
+      "globalAddress": "0x5837f1622739be2f4C211c739EeBb02E7d9FacC0",
       "localAddress": {
-        "421614": "0x973ad94068b9f290d3806da348171dd28b63c670"
+        "421614": "0x6915aFc53c3465D3063e90b810077d85bc61C977"
       },
-      "underlyingAddress": "0xe763962e4528dab55eadf4522473c066c3d4dd94",
+      "underlyingAddress": "0xe763962e4528Dab55eadf4522473C066c3D4Dd94",
       "name": "USDCoin",
       "decimals": 6,
       "symbol": "USDC",
@@ -96,11 +96,11 @@
     },
     {
       "chainId": 421614,
-      "globalAddress": "0x16Ef88Ce3918fE206988D611E123aC75bEbDF75f",
+      "globalAddress": "0xd16c354a52096E9F37697a5b43C7cFa75FE2fDA3",
       "localAddress": {
-        "421614": "0xDeA5c96855D9a03Decf0C225984B42c5D88415E3"
+        "421614": "0x3350b290D013F43d51F4245F2DBB994fd7Ec9775"
       },
-      "underlyingAddress": "0x980B62Da83eFf3D4576C647993b0c1D7faf17c73",
+      "underlyingAddress": "0x652708AE1a574F9Da86428cD213F7CA90F470D47",
       "name": "Wrapped Ether",
       "decimals": 18,
       "symbol": "WETH",
@@ -108,9 +108,9 @@
     },
     {
       "chainId": 421614,
-      "globalAddress": "0x5CB27D2E88EdA778a7bdd2E53C448cd482fF3641",
+      "globalAddress": "0x1176D9f24Ca1F26aa8F3479613B5d512F344Abf3",
       "localAddress": {
-        "421614": "0x20b0ece127564f510b97888c113c70919ba8b6b1"
+        "421614": "0x1C3A55D25c293bF63edeAAb6c19d730b4343caa5"
       },
       "underlyingAddress": "0xfBc06526d9Ac66CE7F57A9D8989e9F93Bd236Ab3",
       "name": "Dai Stablecoin",
@@ -120,11 +120,11 @@
     },
     {
       "chainId": 421614,
-      "globalAddress": "0x66A2513AEB8C51C1F50C7911F53Da27D34c46C3F",
+      "globalAddress": "0x100922C883D69872CA2A2ae4E242c8ef6fDcEc8d",
       "localAddress": {
-        "421614": "0x8666507f4d9a56847f960eeef35ffc889fb35585"
+        "421614": "0x2D3f6A97cF4027Fe82bcAd4571b6F531f922A200"
       },
-      "underlyingAddress": "0x2c1d90b740271d930653e3d1a42366e50f45fb2c",
+      "underlyingAddress": "0x2C1d90B740271d930653e3D1a42366e50F45Fb2C",
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
@@ -132,11 +132,11 @@
     },
     {
       "chainId": 11155420,
-      "globalAddress": "0x0893D6c8705386fF6D98E1A5d3AC94A858c0A16D",
+      "globalAddress": "0xCffcd7462Df8725af3B566ee441DcB464FA03DE1",
       "localAddress": {
-        "11155420": "0x46C5CcaAFf452f6849d1e1D08D602AB78acf8980"
+        "11155420": "0xdB97C610BB954B9692bB1AF0D98813846d847aF8"
       },
-      "underlyingAddress": "0xd241e83586c58844a54b8769547cc178de925800",
+      "underlyingAddress": "0xd241E83586c58844a54b8769547Cc178De925800",
       "name": "USDCoin",
       "decimals": 6,
       "symbol": "USDC",
@@ -144,9 +144,9 @@
     },
     {
       "chainId": 11155420,
-      "globalAddress": "0x266000551514b27Abd5a217EFD36722Ac89CCFD1",
+      "globalAddress": "0xAd6A7addf807D846A590E76C5830B609F831Ba2E",
       "localAddress": {
-        "11155420": "0x726d0bd0108b1511bf4CD5C0d497c387f83ee80A"
+        "11155420": "0xB52d058088E68462AFE806881299C36606Fa65A1"
       },
       "underlyingAddress": "0xAd6A7addf807D846A590E76C5830B609F831Ba2E",
       "name": "Wrapped Ether",
@@ -156,11 +156,11 @@
     },
     {
       "chainId": 11155420,
-      "globalAddress": "0xD0c3218D68be789F0e90dF382ee47564cAf24416",
+      "globalAddress": "0xB948fd6621878C9467814bB113Df4B735FC6D7b1",
       "localAddress": {
-        "11155420": "0x46C5CcaAFf452f6849d1e1D08D602AB78acf8980"
+        "11155420": "0x110F08077B5cF30c6ea6911655d2a1900Ea371d6"
       },
-      "underlyingAddress": "0x280cdd7dbe7d0ba78a16c9b34a43f9a5579ad8ce",
+      "underlyingAddress": "0x280cdD7dBe7D0BA78a16c9b34a43F9A5579ad8ce",
       "name": "Dai Stablecoin",
       "decimals": 18,
       "symbol": "DAI",
@@ -168,11 +168,11 @@
     },
     {
       "chainId": 11155420,
-      "globalAddress": "0x2de5DD6423ED5cabaF1597eFA9948cAb6CB9c577",
+      "globalAddress": "0x0C9437e2C8eeBC797fcA7939240733cbe623Aad5",
       "localAddress": {
-        "11155420": "0xe877494E312fF15cD5aAf85a8a0324052807964c"
+        "11155420": "0x324e2D740A3b0b7c22A3D2d45B5724783bE042D0"
       },
-      "underlyingAddress": "0x316952d1d2276c2ce78b46f897af641455a3035e",
+      "underlyingAddress": "0x316952D1d2276C2CE78b46f897AF641455a3035e",
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
@@ -190,7 +190,7 @@
     },
     {
       "chainId": 11155111,
-      "address": "0xe978427030e03e60b0386c0c16fa652dd1584960",
+      "address": "0x9FEf309890e0501cB2231a0Dc429CB06C68419a2",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -198,7 +198,7 @@
     },
     {
       "chainId": 11155111,
-      "address": "0x376431e1cb639f2cd83e3de0ecb6dd750a4a9c20",
+      "address": "0x4179710a60F578ca2b2b219B1c3ea8b2891D88E7",
       "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 6,
@@ -206,7 +206,7 @@
     },
     {
       "chainId": 11155111,
-      "address": "0x9ca76a6a635938abF115D555AA39AA6D895A761D",
+      "address": "0x680EB0563689C43f4086cE8995BcA46AB9fE253F",
       "name": "Curve",
       "symbol": "CRV",
       "decimals": 18,
@@ -230,7 +230,7 @@
     },
     {
       "chainId": 11155111,
-      "address": "0x42eeB42EB012C8095F5662c897245E121b61DCD8",
+      "address": "0xa0E7503F8861550d9FeE69c9D477FC7855074Be6",
       "name": "AraFi Token",
       "symbol": "ARA",
       "decimals": 18,
