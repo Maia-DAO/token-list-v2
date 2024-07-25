@@ -2,7 +2,7 @@
   "name": "Default Hermes Token List",
   "timestamp": "1718044669",
   "version": {
-    "major": 10,
+    "major": 11,
     "minor": 0,
     "patch": 0
   },
@@ -302,35 +302,27 @@
     },
     {
       "chainId": 11155111,
-      "address": "0x680EB0563689C43f4086cE8995BcA46AB9fE253F",
-      "name": "Curve",
-      "symbol": "CRV",
+      "address": "0x3f3A23BE22926fDd261A8AFA480EEE667A1Adf69",
+      "name": "Wrapped Ulysses Dai",
+      "symbol": "WuDAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xD533a949740bb3306d119CC777fa900bA034cd52/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
     },
     {
       "chainId": 11155111,
-      "address": "0x83e27C85f78294Bf24d651d0D35DC9AaB22a86F1",
-      "name": "Balancer Test 1",
-      "symbol": "BPT-TEST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "chainId": 11155111,
-      "address": "0x55ed738a5C09C494B8666aDE16919bb7CB56E98d",
-      "name": "Wrapped Balancer Test",
-      "symbol": "WTEST",
+      "address": "0x4fA0d00564D940bF7e9198bFb61a0EDdb0D6bE82",
+      "name": "Wrapped Ulysses USDC",
+      "symbol": "WuUSDC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "chainId": 11155111,
-      "address": "0xa0E7503F8861550d9FeE69c9D477FC7855074Be6",
-      "name": "AraFi Token",
-      "symbol": "ARA",
+      "address": "0x57712Be38A547274182C5A6b15bf2025a63717b8",
+      "name": "Wrapped Ulysses USDT",
+      "symbol": "WuUSDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_c150x150px.png"
-    }
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
   ]
 }
