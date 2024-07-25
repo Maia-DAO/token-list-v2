@@ -57,8 +57,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0xe17F84cA0a338Bb09fe2FBF99DD841F2F5f6F8C2",
-      "underlyingAddress": "0xe17F84cA0a338Bb09fe2FBF99DD841F2F5f6F8C2",
+      "globalAddress": "0x8dFe092C40F6AE7081bb6f920E899BD640812c15",
+      "underlyingAddress": "0x8dFe092C40F6AE7081bb6f920E899BD640812c15",
       "name": "Maia",
       "decimals": 18,
       "symbol": "MAIA",
@@ -66,8 +66,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0xa97B98B822A7fd1CaC21cCCa2E0Df99357C3dC75",
-      "underlyingAddress": "0xa97B98B822A7fd1CaC21cCCa2E0Df99357C3dC75",
+      "globalAddress": "0x3e822a168A667AbA3e6C6e7B64B562ecbD20C45b",
+      "underlyingAddress": "0x3e822a168A667AbA3e6C6e7B64B562ecbD20C45b",
       "name": "Vote Maia",
       "decimals": 18,
       "symbol": "vMaia",
@@ -75,8 +75,8 @@
     },
     {
       "chainId": 11155111,
-      "globalAddress": "0x4B620E248C2dB84186e7dd4dc17263b97b5eF34E",
-      "underlyingAddress": "0x4B620E248C2dB84186e7dd4dc17263b97b5eF34E",
+      "globalAddress": "0xA3276039F58C3b6FDA367c96d3EfeE6d84487547",
+      "underlyingAddress": "0xA3276039F58C3b6FDA367c96d3EfeE6d84487547",
       "name": "Vote Maia - Votes",
       "decimals": 18,
       "symbol": "vMAIA-V",
@@ -221,6 +221,54 @@
         "80002": "0xD1959b7d25F5D28855f4882892Fad71Eaea4Be04"
       },
       "underlyingAddress": "0xfb900d90b001da9eda34c481000a433b324ebf78",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "globalAddress": "0x2697Ee41f4cf82192DeD28B221adc7051d0dDE71",
+      "localAddress": {
+        "84532": "0x46C5CcaAFf452f6849d1e1D08D602AB78acf8980"
+      },
+      "underlyingAddress": "0x78af7b91a77a47010fe26fe39bd499d279e0debb",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "globalAddress": "0xbC86cEd2D2DB3d5D649F1F0e386996F3c07CB2dF",
+      "localAddress": {
+        "84532": "0x726d0bd0108b1511bf4CD5C0d497c387f83ee80A"
+      },
+      "underlyingAddress": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "globalAddress": "0xd0970Ff4B2aCD013Ae087dD44001EF1Be60e8060",
+      "localAddress": {
+        "84532": "0xe877494E312fF15cD5aAf85a8a0324052807964c"
+      },
+      "underlyingAddress": "0xaeb28175adf61fa6d74a39b2246b6c65d5bcc71c",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "symbol": "DAI",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "globalAddress": "0xED4e7EA2230FAc7D5bE409F92a9a6324c85fd202",
+      "localAddress": {
+        "84532": "0x783f3186d43d29fE4C24be6E0a89bfF0489694c2"
+      },
+      "underlyingAddress": "0x2d82c4b9ff582d02cc89675f2d086cb7953a555a",
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
