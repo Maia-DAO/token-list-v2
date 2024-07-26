@@ -100,7 +100,7 @@
       "localAddress": {
         "421614": "0x3350b290D013F43d51F4245F2DBB994fd7Ec9775"
       },
-      "underlyingAddress": "0x652708AE1a574F9Da86428cD213F7CA90F470D47",
+      "underlyingAddress": "0x980B62Da83eFf3D4576C647993b0c1D7faf17c73",
       "name": "Wrapped Ether",
       "decimals": 18,
       "symbol": "WETH",
