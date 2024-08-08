@@ -96,9 +96,9 @@
     },
     {
       "chainId": 421614,
-      "globalAddress": "0xd16c354a52096E9F37697a5b43C7cFa75FE2fDA3",
+      "globalAddress": "0x4fe4d02De7aC1B9Acd8224D99ab922176Df34720",
       "localAddress": {
-        "421614": "0x3350b290D013F43d51F4245F2DBB994fd7Ec9775"
+        "421614": "0xabC2FA79EEA2283Bf70570E7E1929EeFD1450Bc2"
       },
       "underlyingAddress": "0x980B62Da83eFf3D4576C647993b0c1D7faf17c73",
       "name": "Wrapped Ether",
@@ -144,7 +144,7 @@
     },
     {
       "chainId": 11155420,
-      "globalAddress": "0xAd6A7addf807D846A590E76C5830B609F831Ba2E",
+      "globalAddress": "0xF19df7B8Ae67A32fd7557BA00cb766839B124541",
       "localAddress": {
         "11155420": "0xB52d058088E68462AFE806881299C36606Fa65A1"
       },
