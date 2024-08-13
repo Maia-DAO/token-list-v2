@@ -1,8 +1,8 @@
 {
   "name": "Default Hermes Token List",
-  "timestamp": "1718044669",
+  "timestamp": "1723560915",
   "version": {
-    "major": 13,
+    "major": 14,
     "minor": 0,
     "patch": 0
   },
@@ -225,6 +225,18 @@
       "decimals": 6,
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 84532,
+      "globalAddress": "0xA72E9ace580783b8CE43c067B5e9F450e1634d16",
+      "localAddress": {
+        "84532": "0xFf6832641278B39e63C759842FCa5016396F0EF6"
+      },
+      "underlyingAddress": "0x6127408Ef762aFC2DD8bFdc525028d1CD643eef4",
+      "name": "AraFi Token",
+      "symbol": "ARA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_c150x150px.png"
     }
   ],
   "rootTokens": [
