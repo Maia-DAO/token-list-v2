@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723671048",
+  "timestamp": "1723675629",
   "version": {
-    "major": 20,
+    "major": 21,
     "minor": 0,
     "patch": 0
   },
@@ -69,8 +69,8 @@
     },
     {
       "chainId": 42161,
-      "globalAddress": "0x00003b020004328e005a0011b99a00c100cb9040",
-      "underlyingAddress": "0x00003b020004328e005a0011b99a00c100cb9040",
+      "globalAddress": "0x00003b020004328e005A0011b99a00c100CB9040",
+      "underlyingAddress": "0x00003b020004328e005A0011b99a00c100CB9040",
       "name": "Vote Maia",
       "decimals": 18,
       "symbol": "vMaia",
@@ -78,8 +78,8 @@
     },
     {
       "chainId": 42161,
-      "globalAddress": "0x416fbdf56ce29f04d21c6f16eaba9b93c998b21e",
-      "underlyingAddress": "0x416fbdf56ce29f04d21c6f16eaba9b93c998b21e",
+      "globalAddress": "0x416FbdF56cE29f04D21C6f16EaBa9b93C998b21E",
+      "underlyingAddress": "0x416FbdF56cE29f04D21C6f16EaBa9b93C998b21E",
       "name": "Vote Maia - Votes",
       "decimals": 18,
       "symbol": "vMAIA-V",
@@ -235,7 +235,7 @@
       "localAddress": {
         "137 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
       },
-      "underlyingAddress": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+      "underlyingAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USDCoin",
       "decimals": 6,
       "symbol": "USDC",
@@ -247,7 +247,7 @@
       "localAddress": {
         "137": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
       },
-      "underlyingAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "underlyingAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
@@ -295,7 +295,7 @@
       "localAddress": {
         "43114": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
       },
-      "underlyingAddress": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "underlyingAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
       "name": "USD Tether",
       "decimals": 6,
       "symbol": "USDT",
@@ -625,7 +625,7 @@
     },
     {
       "chainId": 42161,
-      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "address": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
       "name": "USD Tether",
       "symbol": "USDT",
       "decimals": 6,
