@@ -233,7 +233,7 @@
       "chainId": 137,
       "globalAddress": "0x069C7d9e3CfE646d7521504b31dB740042CDb409",
       "localAddress": {
-        "137": " 0xAd9902E383330bA21FB402F8eF832010F9f44526"
+        "137": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
       },
       "underlyingAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
       "name": "Tether USD",
@@ -281,7 +281,7 @@
       "chainId": 1088,
       "globalAddress": "0x9E60eB63Eaad46759A170B9eE5cC27E5Dd68C7e1",
       "localAddress": {
-        "1088": " 0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+        "1088": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
       },
       "underlyingAddress": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "name": "Metis",
