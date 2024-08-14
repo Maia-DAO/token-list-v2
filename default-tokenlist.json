@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1723607056",
   "version": {
-    "major": 17,
+    "major": 18,
     "minor": 0,
     "patch": 0
   },
@@ -299,7 +299,7 @@
       "name": "AraFi Token",
       "decimals": 18,
       "symbol": "ARA",
-      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_c150x150px.png"
+      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_C_150x150px.svg"
     },
     {
       "chainId": 1088,
@@ -335,7 +335,7 @@
       "name": "Revenant",
       "decimals": 18,
       "symbol": "GAMEFI",
-      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2.png"
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2.svg"
     },
     {
       "chainId": 1088,
@@ -347,7 +347,7 @@
       "name": "Hera Token",
       "decimals": 18,
       "symbol": "HERA",
-      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE.svg"
     },
     {
       "chainId": 11155111,
