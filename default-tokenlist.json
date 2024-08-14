@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723607056",
+  "timestamp": "1723669113",
   "version": {
-    "major": 18,
+    "major": 19,
     "minor": 0,
     "patch": 0
   },
@@ -240,6 +240,18 @@
       "decimals": 6,
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "globalAddress": "0x53f671e1a31f803Dcf8070F70D60C17a4FBf3c72",
+      "localAddress": {
+        "43114": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "name": "Wrapped Avalanche",
+      "decimals": 18,
+      "symbol": "WAVAX",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
     },
     {
       "chainId": 43114,
