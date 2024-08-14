@@ -1,15 +1,354 @@
 {
-  "name": "Default Hermes Token List",
-  "timestamp": "1723561023",
+  "name": "Hermes' Goods",
+  "timestamp": "1723607056",
   "version": {
-    "major": 15,
+    "major": 16,
     "minor": 0,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "",
-  "keywords": ["hermes", "default"],
+  "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Hermes-color.svg",
+  "keywords": [
+    "hermes",
+    "default"
+  ],
   "tokens": [
+    {
+      "chainId": 42161,
+      "globalAddress": "0x00000000000451f49c692Bfc24971cAcEA2dB678",
+      "underlyingAddress": "0x00000000000451f49c692Bfc24971cAcEA2dB678",
+      "name": "Hermes",
+      "decimals": 18,
+      "symbol": "HERMES",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Hermes-color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0x000000000066eA454672f4733407A74B886d3c93",
+      "underlyingAddress": "0x000000000066eA454672f4733407A74B886d3c93",
+      "name": "Burnt Hermes",
+      "decimals": 18,
+      "symbol": "bHERMES",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/burnt-hermes-color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0xf2B83F6a750A6140f26B864C2462e971e5BD18e1",
+      "underlyingAddress": "0xf2B83F6a750A6140f26B864C2462e971e5BD18e1",
+      "name": "Burnt Hermes - Gauges",
+      "decimals": 18,
+      "symbol": "bHERMES-G",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/g-hermes-color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0xeA017393Cc43a3c4da9B63A723e20a20c5951573",
+      "underlyingAddress": "0xeA017393Cc43a3c4da9B63A723e20a20c5951573",
+      "name": "Burnt Hermes - Boost",
+      "decimals": 18,
+      "symbol": "bHERMES-B",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/b-hermes-color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0x168edFB07E7FA8FeB3fC14290C242Cb95F4000CD",
+      "underlyingAddress": "0x168edFB07E7FA8FeB3fC14290C242Cb95F4000CD",
+      "name": "Burnt Hermes - Votes",
+      "decimals": 18,
+      "symbol": "bHERMES-V",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/v-hermes-color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0x00000000702749f73E5210B08b0a3D440078f888",
+      "underlyingAddress": "0x00000000702749f73E5210B08b0a3D440078f888",
+      "name": "Maia",
+      "decimals": 18,
+      "symbol": "MAIA",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Maia_color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0x00003b020004328e005a0011b99a00c100cb9040",
+      "underlyingAddress": "0x00003b020004328e005a0011b99a00c100cb9040",
+      "name": "Vote Maia",
+      "decimals": 18,
+      "symbol": "vMaia",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/locked-maia-color.svg"
+    },
+    {
+      "chainId": 42161,
+      "globalAddress": "0x416fbdf56ce29f04d21c6f16eaba9b93c998b21e",
+      "underlyingAddress": "0x416fbdf56ce29f04d21c6f16eaba9b93c998b21e",
+      "name": "Vote Maia - Votes",
+      "decimals": 18,
+      "symbol": "vMAIA-V",
+      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/v-maia-color.svg"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x7600b276b65B16AF569b34cb6fDBFCBCc7F910c7",
+      "localAddress": {
+        "1": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+      },
+      "underlyingAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0xec32aAd0e8fc6851f4bA024B33dE09607190Ce9b",
+      "localAddress": {
+        "1": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0xf56feaA4460feA03A6d70f168D905f96390DC592",
+      "localAddress": {
+        "1": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
+      },
+      "underlyingAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x90364aA61234B85251aD943681433904c35FA5ce",
+      "localAddress": {
+        "1": "0x2AE61EfEdcbA75453759862CbE390788a400d4F7"
+      },
+      "underlyingAddress": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+      "name": "Metis",
+      "decimals": 18,
+      "symbol": "METIS",
+      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+    },
+    {
+      "chainId": 10,
+      "globalAddress": "0x446C123628194826110Fac2e18496a161d277b0F",
+      "localAddress": {
+        "10": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+      },
+      "underlyingAddress": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 10,
+      "globalAddress": "0xab57C3f001A749B340686E6DB3532792A76D7715",
+      "localAddress": {
+        "10": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 10,
+      "globalAddress": "0x172357103cAbb55fee31fC7f34faf5Bc2c22181A",
+      "localAddress": {
+        "10": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
+      },
+      "underlyingAddress": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "globalAddress": "0xD5FAE1D23693d2f0090cD101b79892661c539366",
+      "localAddress": {
+        "8453 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+      },
+      "underlyingAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "globalAddress": "0xa168bE53a546163f36210f3c440fbDC41BE99EE2",
+      "localAddress": {
+        "8453 ": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 56,
+      "globalAddress": "0x9F0DD7B477dE824c6b2f7EE141fC8656C6EA0582",
+      "localAddress": {
+        "56 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+      },
+      "underlyingAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 56,
+      "globalAddress": "0xd972c72fb7e2a6f8F947f6cc000Fe409Fd746137",
+      "localAddress": {
+        "56": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
+      },
+      "underlyingAddress": "0x55d398326f99059ff775485246999027b3197955",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 137,
+      "globalAddress": "0xa5167E66be791c9782bE138900051b855c260e95",
+      "localAddress": {
+        "137 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+      },
+      "underlyingAddress": "0x3c499c542cef5e3811e1192ce70d8cc03d5c3359",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 137,
+      "globalAddress": "0x069C7d9e3CfE646d7521504b31dB740042CDb409",
+      "localAddress": {
+        "137": " 0xAd9902E383330bA21FB402F8eF832010F9f44526"
+      },
+      "underlyingAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "globalAddress": "0xa81CCd479d23529151e25808C591bd0d8556eD2d",
+      "localAddress": {
+        "43114": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+      },
+      "underlyingAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 43114,
+      "globalAddress": "0x0B8A98B0FD31Fc92B7dF5592a78B83aE455d2C44",
+      "localAddress": {
+        "43114": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
+      },
+      "underlyingAddress": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+      "name": "USDCoin",
+      "decimals": 6,
+      "symbol": "USDC",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0xf69525E7B7aA0212E1AeE9528ddF73941236BE7b",
+      "localAddress": {
+        "1088": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
+      },
+      "underlyingAddress": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
+      "name": "Tether USD",
+      "decimals": 6,
+      "symbol": "USDT",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0x9E60eB63Eaad46759A170B9eE5cC27E5Dd68C7e1",
+      "localAddress": {
+        "1088": " 0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "name": "Metis",
+      "decimals": 18,
+      "symbol": "METIS",
+      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0x62C56aC9C6D83FfC84141D512511151c97c6D58A",
+      "localAddress": {
+        "1088": "0x3937d7dE7ddBF0597448Cf232f7AA8aa494E3e12"
+      },
+      "underlyingAddress": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
+      "name": "AraFi Token",
+      "decimals": 18,
+      "symbol": "ARA",
+      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_c150x150px.png"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0x0A2ed36BD39376FDf1b6dE8eC5a824D590D958cF",
+      "localAddress": {
+        "1088": "0x2AE61EfEdcbA75453759862CbE390788a400d4F7"
+      },
+      "underlyingAddress": "0x82524ebF9e5e0D793B4Dd3E920Ab430aC94c5F3B",
+      "name": "Ara Wrapped Hermes",
+      "decimals": 18,
+      "symbol": "aHERMES",
+      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aHermes.svg"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0xe84b64Bc2B5a69FA7909C9Ae4cf58296AA5f8B3a",
+      "localAddress": {
+        "1088": "0x66E299850109FB0C0C012C406367F933274d9269"
+      },
+      "underlyingAddress": "0xF37b66C2d84274949FB514079c8CE917157DEcaC ",
+      "name": "Ara Wrapped Maia",
+      "decimals": 18,
+      "symbol": "aMAIA",
+      "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aMaia.svg"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0xe3E0Fd995B09E0C90168CfF1d93dFfeddEABd344",
+      "localAddress": {
+        "1088": "0x413D409f040BA5C4E28D44137271a7959c2b4f41"
+      },
+      "underlyingAddress": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+      "name": "Revenant",
+      "decimals": 18,
+      "symbol": "GAMEFI",
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/main/0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2.png"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0xAA866B376A1a9820C41EF917eC0523278ee4aD22",
+      "localAddress": {
+        "1088": "0x227857E13D71F45D49b8D5C84E3B816451b4dfe0"
+      },
+      "underlyingAddress": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+      "name": "Hera Token",
+      "decimals": 18,
+      "symbol": "HERA",
+      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+    },
     {
       "chainId": 11155111,
       "globalAddress": "0x34CA145f38aBff21679B958fA067DBF3c021a60D",
@@ -240,6 +579,22 @@
     }
   ],
   "rootTokens": [
+    {
+      "chainId": 42161,
+      "address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "name": "USDCoin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "name": "USD Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
     {
       "chainId": 11155111,
       "address": "0x6f79350e44a35225870e5fddf55b17574fd77d1a",
