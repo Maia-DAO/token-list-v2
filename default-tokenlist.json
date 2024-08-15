@@ -702,6 +702,46 @@
       "symbol": "WuUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x9fa578DBf15C86b1eE599aa4507251311fd6FD37",
+      "name": "Wrapped Ulysses Optimism Stack USDC",
+      "symbol": "WuOPs-USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0B52D7bc036f6F74d8eA5Ea02A9fa4CDd12EA784",
+      "name": "Wrapped Ulysses Optimism Stack ETH",
+      "symbol": "WuOPs-ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+     {
+      "chainId": 42161,
+      "address": "0x59D93dedD5Ca3526811FbcD5BcaC99743Bb47319",
+      "name": "Wrapped Ulysses METIS",
+      "symbol": "WuMETIS",
+      "decimals": 18,
+      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xD4FcbADA835D5A2814Db6D4521a668ab0773D3f3",
+      "name": "Wrapped Ulysses Alt L1 USDC",
+      "symbol": "WuL1s-USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xF7F8f1e2ACF75D4BE4772A955c70948A4d23dce5",
+      "name": "Wrapped Ulysses Alt L1 USDT",
+      "symbol": "WuL1s-USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     }
   ]
 }
