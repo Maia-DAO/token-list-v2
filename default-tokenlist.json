@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723706884",
+  "timestamp": "1723707199",
   "version": {
-    "major": 26,
+    "major": 27,
     "minor": 0,
     "patch": 0
   },
@@ -379,7 +379,7 @@
       "localAddress": {
         "1088": "0x66E299850109FB0C0C012C406367F933274d9269"
       },
-      "underlyingAddress": "0xF37b66C2d84274949FB514079c8CE917157DEcaC ",
+      "underlyingAddress": "0xF37b66C2d84274949FB514079c8CE917157DEcaC",
       "name": "Ara Wrapped Maia",
       "decimals": 18,
       "symbol": "aMAIA",
