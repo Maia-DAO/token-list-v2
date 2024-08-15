@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723707199",
+  "timestamp": "1723734624",
   "version": {
-    "major": 27,
+    "major": 28,
     "minor": 0,
     "patch": 0
   },
@@ -23,7 +23,7 @@
       "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Hermes-color.svg"
     },
     {
-      "chainId": 42161,
+      "chainId": 42161,9
       "globalAddress": "0x000000000066eA454672f4733407A74B886d3c93",
       "underlyingAddress": "0x000000000066eA454672f4733407A74B886d3c93",
       "name": "Burnt Hermes",
@@ -381,7 +381,7 @@
       },
       "underlyingAddress": "0xF37b66C2d84274949FB514079c8CE917157DEcaC",
       "name": "Ara Wrapped Maia",
-      "decimals": 18,
+      "decimals": 9,
       "symbol": "aMAIA",
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aMaia.svg"
     },
