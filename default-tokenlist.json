@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723671048",
+  "timestamp": "1723676637",
   "version": {
-    "major": 22,
+    "major": 23,
     "minor": 0,
     "patch": 0
   },
@@ -147,6 +147,18 @@
     },
     {
       "chainId": 10,
+      "globalAddress": "0xab57C3f001A749B340686E6DB3532792A76D7715",
+      "localAddress": {
+        "10": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 10,
       "globalAddress": "0x172357103cAbb55fee31fC7f34faf5Bc2c22181A",
       "localAddress": {
         "10": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
@@ -168,6 +180,18 @@
       "decimals": 6,
       "symbol": "USDC",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 8453,
+      "globalAddress": "0xa168bE53a546163f36210f3c440fbDC41BE99EE2",
+      "localAddress": {
+        "8453 ": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+      },
+      "underlyingAddress": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "chainId": 56,
