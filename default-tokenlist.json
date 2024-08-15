@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723683919",
+  "timestamp": "1723696237",
   "version": {
-    "major": 24,
+    "major": 25,
     "minor": 0,
     "patch": 0
   },
@@ -312,6 +312,18 @@
       "decimals": 18,
       "symbol": "METIS",
       "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+    },
+    {
+      "chainId": 1088,
+      "globalAddress": "0x86E8d85b46A5Ed5fB7b97F2AdaeAf702cA9929bC",
+      "localAddress": {
+        "1088": "0x77bBfbb348d5F174980682BAfc7b636F56966EB6"
+      },
+      "underlyingAddress": "0x420000000000000000000000000000000000000A",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
     {
       "chainId": 1088,
