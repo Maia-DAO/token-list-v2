@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723734624",
+  "timestamp": "1723808922",
   "version": {
-    "major": 28,
+    "major": 29,
     "minor": 0,
     "patch": 0
   },
@@ -23,7 +23,7 @@
       "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Hermes-color.svg"
     },
     {
-      "chainId": 42161,9
+      "chainId": 42161,
       "globalAddress": "0x000000000066eA454672f4733407A74B886d3c93",
       "underlyingAddress": "0x000000000066eA454672f4733407A74B886d3c93",
       "name": "Burnt Hermes",
