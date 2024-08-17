@@ -737,7 +737,7 @@
     },
     {
       "chainId": 42161,
-      "address": "0xF7F8f1e2ACF75D4BE4772A955c70948A4d23dce5",
+      "address": "0x6284885cC2b1934A53E92d01BF55995314190C19",
       "name": "Wrapped Ulysses Alt L1 USDT",
       "symbol": "WuL1s-USDT",
       "decimals": 18,
