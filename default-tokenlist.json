@@ -173,7 +173,7 @@
       "chainId": 8453,
       "globalAddress": "0xD5FAE1D23693d2f0090cD101b79892661c539366",
       "localAddress": {
-        "8453 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+        "8453": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
       },
       "underlyingAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "name": "USDCoin",
@@ -185,7 +185,7 @@
       "chainId": 8453,
       "globalAddress": "0xa168bE53a546163f36210f3c440fbDC41BE99EE2",
       "localAddress": {
-        "8453 ": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+        "8453": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
       },
       "underlyingAddress": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
@@ -197,7 +197,7 @@
       "chainId": 56,
       "globalAddress": "0x9F0DD7B477dE824c6b2f7EE141fC8656C6EA0582",
       "localAddress": {
-        "56 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+        "56": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
       },
       "underlyingAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
       "name": "USDCoin",
@@ -221,7 +221,7 @@
       "chainId": 56,
       "globalAddress": "0xa98b83e9529A5a49780ad07fbC6DA48101f41c17",
       "localAddress": {
-        "56 ": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
+        "56": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
       },
       "underlyingAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "name": "Wrapped Binance Coin",
@@ -233,7 +233,7 @@
       "chainId": 137,
       "globalAddress": "0xa5167E66be791c9782bE138900051b855c260e95",
       "localAddress": {
-        "137 ": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
+        "137": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
       },
       "underlyingAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
       "name": "USDCoin",
