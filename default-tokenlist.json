@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723901162",
+  "timestamp": "1723931726",
   "version": {
-    "major": 32,
+    "major": 33,
     "minor": 0,
     "patch": 0
   },
@@ -742,6 +742,46 @@
       "symbol": "WuL1s-USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+     {
+      "chainId": 42161,
+      "address": "0xC71FAe5853fa2416b37728D73B51E17A32691E45",
+      "name": "Ulysses Optimism Stack USDC BPT",
+      "symbol": "uOPs-USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x0829380a1101B3d129dFF56163bcb60f6Dd7cD4e",
+      "name": "Ulysses Optimism Stack ETH BPT",
+      "symbol": "uOPs-ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+     {
+      "chainId": 42161,
+      "address": "0xdDeeD1A20169658c1F20F338b8158E89c78a0C22",
+      "name": "Ulysses METIS BPT",
+      "symbol": "uMETIS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x18b9b9897f0c5A7f2D9424C058211C2EF218F1A3",
+      "name": "Ulysses Alt L1 USDC BPT",
+      "symbol": "uL1s-USDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0xDc4bbB8928e97E913ba13f6a737caA45e8070E7d",
+      "name": "Ulysses Alt L1 USDT BPT",
+      "symbol": "uL1s-USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
     }
   ]
 }
