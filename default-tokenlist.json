@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723853184",
+  "timestamp": "1723854435",
   "version": {
-    "major": 30,
+    "major": 31,
     "minor": 0,
     "patch": 0
   },
@@ -131,7 +131,7 @@
       "name": "Metis",
       "decimals": 18,
       "symbol": "METIS",
-      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/5adb27397a46b8ae3b79ab6f1efe878aa5ba085d/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
     },
     {
       "chainId": 10,
@@ -311,7 +311,7 @@
       "name": "Metis",
       "decimals": 18,
       "symbol": "METIS",
-      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/5adb27397a46b8ae3b79ab6f1efe878aa5ba085d/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
     },
     {
       "chainId": 1088,
@@ -725,7 +725,7 @@
       "name": "Wrapped Ulysses METIS",
       "symbol": "WuMETIS",
       "decimals": 18,
-      "logoURI": "https://github.com/MaiaDAO/token-list/blob/main/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
+      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/5adb27397a46b8ae3b79ab6f1efe878aa5ba085d/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
     },
     {
       "chainId": 42161,
