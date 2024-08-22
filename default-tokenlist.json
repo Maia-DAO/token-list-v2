@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1723931726",
+  "timestamp": "1724292013",
   "version": {
-    "major": 33,
+    "major": 34,
     "minor": 0,
     "patch": 0
   },
@@ -315,9 +315,9 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0x86E8d85b46A5Ed5fB7b97F2AdaeAf702cA9929bC",
+      "globalAddress": "0x77bBfbb348d5F174980682BAfc7b636F56966EB6",
       "localAddress": {
-        "1088": "0x77bBfbb348d5F174980682BAfc7b636F56966EB6"
+        "1088": "0x86E8d85b46A5Ed5fB7b97F2AdaeAf702cA9929bC"
       },
       "underlyingAddress": "0x420000000000000000000000000000000000000A",
       "name": "Wrapped Ether",
