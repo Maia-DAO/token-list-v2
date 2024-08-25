@@ -230,42 +230,6 @@
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
     },
     {
-      "chainId": 137,
-      "globalAddress": "0xa5167E66be791c9782bE138900051b855c260e95",
-      "localAddress": {
-        "137": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
-      "underlyingAddress": "0x3c499c542cEF5E3811e1192ce70d8cC03d5c3359",
-      "name": "USDCoin",
-      "decimals": 6,
-      "symbol": "USDC",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "chainId": 137,
-      "globalAddress": "0x069C7d9e3CfE646d7521504b31dB740042CDb409",
-      "localAddress": {
-        "137": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
-      },
-      "underlyingAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
-      "name": "Tether USD",
-      "decimals": 6,
-      "symbol": "USDT",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "chainId": 137,
-      "globalAddress": "0xabF1b68bD9d4672235AdD840F5C46544785f3fac",
-      "localAddress": {
-        "137": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
-      "underlyingAddress": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "name": "Wrapped Matic",
-      "decimals": 18,
-      "symbol": "WMATIC",
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/polygon/assets/0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270/logo.png"
-    },
-    {
       "chainId": 43114,
       "globalAddress": "0x53f671e1a31f803Dcf8070F70D60C17a4FBf3c72",
       "localAddress": {
