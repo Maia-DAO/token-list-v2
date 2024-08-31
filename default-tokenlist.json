@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1724553508",
+  "timestamp": "1725122866",
   "version": {
-    "major": 35,
+    "major": 36,
     "minor": 0,
     "patch": 0
   },
@@ -746,6 +746,22 @@
       "symbol": "uL1s-USDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
+      "name": "ether.fi governance token",
+      "symbol": "ETHFI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/35958/standard/etherfi.jpeg"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+      "name": "Wrapped eETH",
+      "symbol": "weETH",
+      "decimals": 18,
+      "logoURI": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png"
     }
   ]
 }
