@@ -87,10 +87,8 @@
     },
     {
       "chainId": 1,
-      "globalAddress": "0x7600b276b65B16AF569b34cb6fDBFCBCc7F910c7",
-      "localAddress": {
-        "1": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
+      "globalAddress": "0x82ab9B2398217bF0200Bc8b18f2A995C1eFb975a",
+      "localAddress": { "1": "0x1940FdDaDc9a492b32d8182870Cd440adE39dbBb" },
       "underlyingAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
       "name": "USDCoin",
       "decimals": 6,
@@ -99,10 +97,8 @@
     },
     {
       "chainId": 1,
-      "globalAddress": "0xec32aAd0e8fc6851f4bA024B33dE09607190Ce9b",
-      "localAddress": {
-        "1": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
+      "globalAddress": "0x70Ed9e9fBc9f6a8A159bcE0485a1D0759f5e8c72",
+      "localAddress": { "1": "0xe2e5DF2786A89c06C36e66015F3F6fA235D5fb76" },
       "underlyingAddress": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "name": "Wrapped Ether",
       "decimals": 18,
@@ -111,11 +107,9 @@
     },
     {
       "chainId": 1,
-      "globalAddress": "0xf56feaA4460feA03A6d70f168D905f96390DC592",
-      "localAddress": {
-        "1": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
-      },
-      "underlyingAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "globalAddress": "0x0f2944ff2566Aa405ea7A9522ff5cD0cD5EF1797",
+      "localAddress": { "1": "0xFe45a32146d24f47880A3Ae66a0E4d118A251bEB" },
+      "underlyingAddress": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
@@ -123,11 +117,9 @@
     },
     {
       "chainId": 1,
-      "globalAddress": "0x90364aA61234B85251aD943681433904c35FA5ce",
-      "localAddress": {
-        "1": "0x2AE61EfEdcbA75453759862CbE390788a400d4F7"
-      },
-      "underlyingAddress": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e",
+      "globalAddress": "0x916c46516302d743b02EE1075B9646d61Cc008c7",
+      "localAddress": { "1": "0x31fF80040a0dA25B692616900b9DD33A09374f0D" },
+      "underlyingAddress": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
       "name": "Metis",
       "decimals": 18,
       "symbol": "METIS",
@@ -135,11 +127,9 @@
     },
     {
       "chainId": 10,
-      "globalAddress": "0x446C123628194826110Fac2e18496a161d277b0F",
-      "localAddress": {
-        "10": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
-      "underlyingAddress": "0x0b2c639c533813f4aa9d7837caf62653d097ff85",
+      "globalAddress": "0xE839360768881d1bECC05Bff2CC82176F4304D77",
+      "localAddress": { "10": "0xbf9C9beBc589af38909b5b0Ed6CDd899dE1885fF" },
+      "underlyingAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
       "name": "USDCoin",
       "decimals": 6,
       "symbol": "USDC",
@@ -147,10 +137,8 @@
     },
     {
       "chainId": 10,
-      "globalAddress": "0xab57C3f001A749B340686E6DB3532792A76D7715",
-      "localAddress": {
-        "10": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
+      "globalAddress": "0x3aa9Be7e0Dac63A03C99FE247e0cF8CB6fd29363",
+      "localAddress": { "10": "0x0F1651C8f1e22097b80A61d1CcffC54A51aaC725" },
       "underlyingAddress": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "decimals": 18,
@@ -159,11 +147,9 @@
     },
     {
       "chainId": 10,
-      "globalAddress": "0x172357103cAbb55fee31fC7f34faf5Bc2c22181A",
-      "localAddress": {
-        "10": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
-      },
-      "underlyingAddress": "0x94b008aa00579c1307b0ef2c499ad98a8ce58e58",
+      "globalAddress": "0x390D857082b406f06b4d5c8377EC0aD36713aC33",
+      "localAddress": { "10": "0x17412a42B2F20C1EA0416C7FbCa58178AEcdC311" },
+      "underlyingAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58",
       "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
@@ -171,10 +157,8 @@
     },
     {
       "chainId": 8453,
-      "globalAddress": "0xD5FAE1D23693d2f0090cD101b79892661c539366",
-      "localAddress": {
-        "8453": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
+      "globalAddress": "0x57D627b04e397Bd8c32C4aAA05Ec02AD20F0F033",
+      "localAddress": { "8453": "0x09Ca2E52636E01187b2797896c99061914BF8854" },
       "underlyingAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
       "name": "USDCoin",
       "decimals": 6,
@@ -183,10 +167,8 @@
     },
     {
       "chainId": 8453,
-      "globalAddress": "0xa168bE53a546163f36210f3c440fbDC41BE99EE2",
-      "localAddress": {
-        "8453": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
+      "globalAddress": "0xa293371eA7b1A227b7d3eEE0cD8FF8A65e30622c",
+      "localAddress": { "8453": "0x10A45947C278D6F49049D120F6b8Cf527D023f53" },
       "underlyingAddress": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "decimals": 18,
@@ -195,11 +177,9 @@
     },
     {
       "chainId": 56,
-      "globalAddress": "0x9F0DD7B477dE824c6b2f7EE141fC8656C6EA0582",
-      "localAddress": {
-        "56": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
-      "underlyingAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "globalAddress": "0x8Ff53B87fEdde6A7dD8Ce4F94865eb826a616e1b",
+      "localAddress": { "56": "0x4a9A4E3585244d50C0DEE8391a643488394289f4" },
+      "underlyingAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
       "name": "USDCoin",
       "decimals": 18,
       "symbol": "USDC",
@@ -207,11 +187,9 @@
     },
     {
       "chainId": 56,
-      "globalAddress": "0xd972c72fb7e2a6f8F947f6cc000Fe409Fd746137",
-      "localAddress": {
-        "56": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
-      },
-      "underlyingAddress": "0x55d398326f99059ff775485246999027b3197955",
+      "globalAddress": "0xb654cB02aB0318985B10CCE2C0027Ef36a3DB55B",
+      "localAddress": { "56": "0x9FFa4240B5D65aD7e83Eff62A9e9ad27F7F17179" },
+      "underlyingAddress": "0x55d398326f99059fF775485246999027B3197955",
       "name": "Tether USD",
       "decimals": 18,
       "symbol": "USDT",
@@ -219,10 +197,8 @@
     },
     {
       "chainId": 56,
-      "globalAddress": "0xa98b83e9529A5a49780ad07fbC6DA48101f41c17",
-      "localAddress": {
-        "56": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
+      "globalAddress": "0x6C4077a788043D877E4b76dd79dfc2DeF1804E04",
+      "localAddress": { "56": "0x7eb5C81d21BCFa970fb280e5A8FB08652448Ed2b" },
       "underlyingAddress": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
       "name": "Wrapped Binance Coin",
       "decimals": 18,
@@ -231,10 +207,8 @@
     },
     {
       "chainId": 43114,
-      "globalAddress": "0x53f671e1a31f803Dcf8070F70D60C17a4FBf3c72",
-      "localAddress": {
-        "43114": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
+      "globalAddress": "0xB301c08E3098d626c3D307701E605c5d1477A7E2",
+      "localAddress": { "43114": "0xfD92eE19f206f313F8D267026B337a62F77b1E4c" },
       "underlyingAddress": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
       "name": "Wrapped Avalanche",
       "decimals": 18,
@@ -243,10 +217,8 @@
     },
     {
       "chainId": 43114,
-      "globalAddress": "0xa81CCd479d23529151e25808C591bd0d8556eD2d",
-      "localAddress": {
-        "43114": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
+      "globalAddress": "0xf108A590BF86972B9BeaB03d6174AD7907554905",
+      "localAddress": { "43114": "0x6C6d80151628829b06C11DF50c07BE1e4d267ACb" },
       "underlyingAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
       "name": "USDCoin",
       "decimals": 6,
@@ -255,22 +227,18 @@
     },
     {
       "chainId": 43114,
-      "globalAddress": "0x0B8A98B0FD31Fc92B7dF5592a78B83aE455d2C44",
-      "localAddress": {
-        "43114": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
-      },
+      "globalAddress": "0xfD4785566143dc5108333de609ac4E8E0A52D00A",
+      "localAddress": { "43114": "0x60801d1B54dbcC57eA7Fa56A05370dD782479731" },
       "underlyingAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-      "name": "USD Tether",
+      "name": "Tether USD",
       "decimals": 6,
       "symbol": "USDT",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
     },
     {
       "chainId": 1088,
-      "globalAddress": "0x9E60eB63Eaad46759A170B9eE5cC27E5Dd68C7e1",
-      "localAddress": {
-        "1088": "0xD02498F4A36eAf1a5b522ee262AF8FEA6eCeAD53"
-      },
+      "globalAddress": "0x3878eA86aaeFE289134e9D433f932BCc9589Cff5",
+      "localAddress": { "1088": "0x1ce28C4f77991b604868bA48f9154408313C65b6" },
       "underlyingAddress": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "name": "Metis",
       "decimals": 18,
@@ -279,10 +247,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0x77bBfbb348d5F174980682BAfc7b636F56966EB6",
-      "localAddress": {
-        "1088": "0x86E8d85b46A5Ed5fB7b97F2AdaeAf702cA9929bC"
-      },
+      "globalAddress": "0xF7200F9c75c7D553a82F7400f5c8B431694e10bb",
+      "localAddress": { "1088": "0x90ad95204CEF33797622298f811Fa08109AC8F78" },
       "underlyingAddress": "0x420000000000000000000000000000000000000A",
       "name": "Wrapped Ether",
       "decimals": 18,
@@ -291,10 +257,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0x4C321Dc94787B73CCf3f0CC0e9430a0d35D48C9F",
-      "localAddress": {
-        "1088": "0x971Ae7dAbC0183A3affa0D28B2Ac65933a2F787D"
-      },
+      "globalAddress": "0xd7654107697D484c0070F6d71C699B6a1A9A9795",
+      "localAddress": { "1088": "0xba61D4D1F3e8cb944B3204f9A79D1e5E0E364d8f" },
       "underlyingAddress": "0xEA32A96608495e54156Ae48931A7c20f0dcc1a21",
       "name": "USDCoin",
       "decimals": 6,
@@ -303,10 +267,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0xf69525E7B7aA0212E1AeE9528ddF73941236BE7b",
-      "localAddress": {
-        "1088": "0xAd9902E383330bA21FB402F8eF832010F9f44526"
-      },
+      "globalAddress": "0xE18b9c05E3Bb22652812e3eD43459Ad8A8bB6A70",
+      "localAddress": { "1088": "0x9765a3Ef7E4febeEf2D48fc6133B7bb2EF60c999" },
       "underlyingAddress": "0xbB06DCA3AE6887fAbF931640f67cab3e3a16F4dC",
       "name": "Tether USD",
       "decimals": 6,
@@ -315,10 +277,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0x62C56aC9C6D83FfC84141D512511151c97c6D58A",
-      "localAddress": {
-        "1088": "0x3937d7dE7ddBF0597448Cf232f7AA8aa494E3e12"
-      },
+      "globalAddress": "0x87a7C6fE2D21781A66e9dbb9E60a66c5abE0FBbC",
+      "localAddress": { "1088": "0xDE237752bE849058E6E209A0B2Ac65FEbD9518eB" },
       "underlyingAddress": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
       "name": "AraFi Token",
       "decimals": 18,
@@ -327,10 +287,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0x0A2ed36BD39376FDf1b6dE8eC5a824D590D958cF",
-      "localAddress": {
-        "1088": "0x2AE61EfEdcbA75453759862CbE390788a400d4F7"
-      },
+      "globalAddress": "0xc557B3aA19F194303924B879d8fe085a67140AeE",
+      "localAddress": { "1088": "0xA5A4f39b55dD9B721F13524353F0d96fCb7b96C3" },
       "underlyingAddress": "0x82524ebF9e5e0D793B4Dd3E920Ab430aC94c5F3B",
       "name": "Ara Wrapped Hermes",
       "decimals": 18,
@@ -339,10 +297,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0xe84b64Bc2B5a69FA7909C9Ae4cf58296AA5f8B3a",
-      "localAddress": {
-        "1088": "0x66E299850109FB0C0C012C406367F933274d9269"
-      },
+      "globalAddress": "0xc5324a5F6AC10Ad356BC04d84bcd3c18ac824076",
+      "localAddress": { "1088": "0xe61d2Ce6925DdA73e10DAadaA47f496d0Ca0808e" },
       "underlyingAddress": "0xF37b66C2d84274949FB514079c8CE917157DEcaC",
       "name": "Ara Wrapped Maia",
       "decimals": 9,
@@ -351,10 +307,8 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0xe3E0Fd995B09E0C90168CfF1d93dFfeddEABd344",
-      "localAddress": {
-        "1088": "0x413D409f040BA5C4E28D44137271a7959c2b4f41"
-      },
+      "globalAddress": "0xf7ab5B47112A5bCA13C9F50C2Cf25c78bAD4bd84",
+      "localAddress": { "1088": "0xb47A97aFf37315534203b02203a86844e7f6012f" },
       "underlyingAddress": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
       "name": "Revenant",
       "decimals": 18,
@@ -363,11 +317,9 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0xAA866B376A1a9820C41EF917eC0523278ee4aD22",
-      "localAddress": {
-        "1088": "0x227857E13D71F45D49b8D5C84E3B816451b4dfe0"
-      },
-      "underlyingAddress": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
+      "globalAddress": "0xf7ab5B47112A5bCA13C9F50C2Cf25c78bAD4bd84",
+      "localAddress": { "1088": "0xb47A97aFf37315534203b02203a86844e7f6012f" },
+      "underlyingAddress": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
       "name": "Hera Token",
       "decimals": 18,
       "symbol": "HERA",
