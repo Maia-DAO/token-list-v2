@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1725122866",
   "version": {
-    "major": 37,
+    "major": 38,
     "minor": 0,
     "patch": 0
   },
@@ -317,9 +317,9 @@
     },
     {
       "chainId": 1088,
-      "globalAddress": "0xf7ab5B47112A5bCA13C9F50C2Cf25c78bAD4bd84",
-      "localAddress": { "1088": "0xb47A97aFf37315534203b02203a86844e7f6012f" },
-      "underlyingAddress": "0x966B25D174bE6Ba703E0fF80c68BB6e167236BA2",
+      "globalAddress": "0x6897f0Cf1c7c8Fb7dC565912dd64E63831995204",
+      "localAddress": { "1088": "0x6793981a63b141DB4b081fBeffC68957cb01Bb5F" },
+      "underlyingAddress": "0x6F05709bc91Bad933346F9E159f0D3FdBc2c9DCE",
       "name": "Hera Token",
       "decimals": 18,
       "symbol": "HERA",
