@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1725122866",
   "version": {
-    "major": 38,
+    "major": 39,
     "minor": 0,
     "patch": 0
   },
@@ -13,78 +13,6 @@
     "default"
   ],
   "tokens": [
-    {
-      "chainId": 42161,
-      "globalAddress": "0x00000000000451f49c692Bfc24971cAcEA2dB678",
-      "underlyingAddress": "0x00000000000451f49c692Bfc24971cAcEA2dB678",
-      "name": "Hermes",
-      "decimals": 18,
-      "symbol": "HERMES",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Hermes-color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0x000000000066eA454672f4733407A74B886d3c93",
-      "underlyingAddress": "0x000000000066eA454672f4733407A74B886d3c93",
-      "name": "Burnt Hermes",
-      "decimals": 18,
-      "symbol": "bHERMES",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/burnt-hermes-color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0xf2B83F6a750A6140f26B864C2462e971e5BD18e1",
-      "underlyingAddress": "0xf2B83F6a750A6140f26B864C2462e971e5BD18e1",
-      "name": "Burnt Hermes - Gauges",
-      "decimals": 18,
-      "symbol": "bHERMES-G",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/g-hermes-color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0xeA017393Cc43a3c4da9B63A723e20a20c5951573",
-      "underlyingAddress": "0xeA017393Cc43a3c4da9B63A723e20a20c5951573",
-      "name": "Burnt Hermes - Boost",
-      "decimals": 18,
-      "symbol": "bHERMES-B",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/b-hermes-color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0x168edFB07E7FA8FeB3fC14290C242Cb95F4000CD",
-      "underlyingAddress": "0x168edFB07E7FA8FeB3fC14290C242Cb95F4000CD",
-      "name": "Burnt Hermes - Votes",
-      "decimals": 18,
-      "symbol": "bHERMES-V",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/v-hermes-color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0x00000000702749f73E5210B08b0a3D440078f888",
-      "underlyingAddress": "0x00000000702749f73E5210B08b0a3D440078f888",
-      "name": "Maia",
-      "decimals": 18,
-      "symbol": "MAIA",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/Maia_color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0x00003b020004328e005A0011b99a00c100CB9040",
-      "underlyingAddress": "0x00003b020004328e005A0011b99a00c100CB9040",
-      "name": "Vote Maia",
-      "decimals": 18,
-      "symbol": "vMaia",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/locked-maia-color.svg"
-    },
-    {
-      "chainId": 42161,
-      "globalAddress": "0x416FbdF56cE29f04D21C6f16EaBa9b93C998b21E",
-      "underlyingAddress": "0x416FbdF56cE29f04D21C6f16EaBa9b93C998b21E",
-      "name": "Vote Maia - Votes",
-      "decimals": 18,
-      "symbol": "vMAIA-V",
-      "logoURI": "https://raw.githubusercontent.com/Maia-DAO/token-list-v2/main/logos/v-maia-color.svg"
-    },
     {
       "chainId": 1,
       "globalAddress": "0x82ab9B2398217bF0200Bc8b18f2A995C1eFb975a",
@@ -618,86 +546,6 @@
       "symbol": "WuUSDT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x9fa578DBf15C86b1eE599aa4507251311fd6FD37",
-      "name": "Wrapped Ulysses Optimism Stack USDC",
-      "symbol": "WuOPs-USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x0B52D7bc036f6F74d8eA5Ea02A9fa4CDd12EA784",
-      "name": "Wrapped Ulysses Optimism Stack ETH",
-      "symbol": "WuOPs-ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
-    },
-     {
-      "chainId": 42161,
-      "address": "0x59D93dedD5Ca3526811FbcD5BcaC99743Bb47319",
-      "name": "Wrapped Ulysses METIS",
-      "symbol": "WuMETIS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/5adb27397a46b8ae3b79ab6f1efe878aa5ba085d/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xD4FcbADA835D5A2814Db6D4521a668ab0773D3f3",
-      "name": "Wrapped Ulysses Alt L1 USDC",
-      "symbol": "WuL1s-USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x6284885cC2b1934A53E92d01BF55995314190C19",
-      "name": "Wrapped Ulysses Alt L1 USDT",
-      "symbol": "WuL1s-USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
-    },
-     {
-      "chainId": 42161,
-      "address": "0xC71FAe5853fa2416b37728D73B51E17A32691E45",
-      "name": "Ulysses Optimism Stack USDC BPT",
-      "symbol": "uOPs-USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x0829380a1101B3d129dFF56163bcb60f6Dd7cD4e",
-      "name": "Ulysses Optimism Stack ETH BPT",
-      "symbol": "uOPs-ETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-    },
-     {
-      "chainId": 42161,
-      "address": "0xdDeeD1A20169658c1F20F338b8158E89c78a0C22",
-      "name": "Ulysses METIS BPT",
-      "symbol": "uMETIS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0x18b9b9897f0c5A7f2D9424C058211C2EF218F1A3",
-      "name": "Ulysses Alt L1 USDC BPT",
-      "symbol": "uL1s-USDC",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
-    },
-    {
-      "chainId": 42161,
-      "address": "0xDc4bbB8928e97E913ba13f6a737caA45e8070E7d",
-      "name": "Ulysses Alt L1 USDT BPT",
-      "symbol": "uL1s-USDT",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xba100000625a3754423978a60c9317c58a424e3D/logo.png"
     },
     {
       "chainId": 42161,
