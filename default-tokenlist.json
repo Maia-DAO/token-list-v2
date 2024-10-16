@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1725122866",
   "version": {
-    "major": 39,
+    "major": 40,
     "minor": 0,
     "patch": 0
   },
@@ -695,6 +695,14 @@
       "symbol": "weETH",
       "decimals": 18,
       "logoURI": "https://coin-images.coingecko.com/coins/images/33033/large/weETH.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x5979D7b546E38E414F7E9822514be443A4800529",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "symbol": "wstETH",
+      "decimals": 18,
+      "logoURI": "https://static.debank.com/image/arb_token/logo_url/0x5979d7b546e38e414f7e9822514be443a4800529/7e931af8cb34b6f5671ca2eb1b847849.png"
     }
   ]
 }
