@@ -123,6 +123,96 @@
       "logoURI": "https://raw.githubusercontent.com/MaiaDAO/token-list/5adb27397a46b8ae3b79ab6f1efe878aa5ba085d/0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000.svg"
     },
     {
+      "chainId": 1,
+      "globalAddress": "0x07E44C4478e459Bbc67c77a851FE9Ea7a228C3F1",
+      "localAddress": { "1": "0xd72066c1DFd94aB3CC3e4793d64d0A885Fa37134" },
+      "underlyingAddress": "0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C",
+      "name": "SPX6900",
+      "decimals": 8,
+      "symbol": "SPX",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0xE0f63A424a4439cBE457D80E4f4b51aD25b2c56C/logo.png"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0xbC2f4E9443ce1d244B0B8A3C5b5b5F1dAec6Ed40",
+      "localAddress": { "1": "0x3eC4Ea434807a22F4483A5c0438Ae80b8f3743d7" },
+      "underlyingAddress": "0x72e4f9F808C49A2a61dE9C5896298920Dc4EEEa9",
+      "name": "HarryPotterObamaSonic10Inu",
+      "decimals": 8,
+      "symbol": "BITCOIN",
+      "logoURI": "https://ethereum-optimism.github.io/data/BITCOIN/logo.svg"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x8dC55aA76c44259BF7f1Ec6b5d3AEdA160576fab",
+      "localAddress": { "1": "0x23Cb8a92214aDB9DC19180468CD172B2B9Eb5861" },
+      "underlyingAddress": "0x76e222b07C53D28b89b0bAc18602810Fc22B49A8",
+      "name": "Joe Coin",
+      "decimals": 18,
+      "symbol": "JOE",
+      "logoURI": "https://assets.coingecko.com/coins/images/32333/standard/joe.png?1697452551"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x4A56DCC292fA61e8fD991c9952040148eA7A855D",
+      "localAddress": { "1": "0x0e64D59475b4100EFF591D8dd18d74c9dB571B9b" },
+      "underlyingAddress": "0x8C7AC134ED985367EADC6F727d79E8295E11435c",
+      "name": "The Balkan Dwarf",
+      "decimals": 18,
+      "symbol": "Kekec",
+      "logoURI": "https://assets.coingecko.com/coins/images/32563/standard/download-compresskaru.com.png?1698546378"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0xfff07803988ddFaDe912a7164EA9fcb44EEeF294",
+      "localAddress": { "1": "0x609a7AF3aD5711A6ba07d6ACcb62d381dD9B4774" },
+      "underlyingAddress": "0xaaeE1A9723aaDB7afA2810263653A34bA2C21C7a",
+      "name": "Mog Coin",
+      "decimals": 18,
+      "symbol": "Mog",
+      "logoURI": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x38489E8609921A7394Feb529AaA61A9E624A498F",
+      "localAddress": { "1": "0x739AE2e75a4BA3b731955Cb300027131610f1DC1" },
+      "underlyingAddress": "0x0D505C03d30e65f6e9b4Ef88855a47a89e4b7676",
+      "name": "ZOOMER",
+      "decimals": 18,
+      "symbol": "ZOOMER",
+      "logoURI": "https://assets.coingecko.com/coins/images/30894/standard/zoooooooooomer.jpg?1696529740"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x5c7Da4bd6e6A9731a64dfBCC58d78E2b2651AE43",
+      "localAddress": { "1": "0xFa912da875b2edEE1C1EA102eC0FA808d5f8c6A8" },
+      "underlyingAddress": "0x6982508145454Ce325dDbE47a25d4ec3d2311933",
+      "name": "Pepe",
+      "decimals": 18,
+      "symbol": "PEPE",
+      "logoURI": "https://assets.coingecko.com/coins/images/29850/standard/pepe-token.jpeg?1696528776"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x1109C5dE007Abb0868a88F9c24C6A0cBa8058004",
+      "localAddress": { "1": "0x3caB89cEb3Fe076ba1d6E2d6c32eCFBA8f15D926" },
+      "underlyingAddress": "0x594DaaD7D77592a2b97b725A7AD59D7E188b5bFa",
+      "name": "Apu Apustaja",
+      "decimals": 18,
+      "symbol": "APU",
+      "logoURI": "https://assets.coingecko.com/coins/images/35986/standard/200x200.png?1710308147"
+    },
+    {
+      "chainId": 1,
+      "globalAddress": "0x1A9f058544B23C38F5C921482E45cB12049F1E15",
+      "localAddress": { "1": "0x4A8FA897C0Aa0e37e5b63B6a8ad34E970ebc16Bf" },
+      "underlyingAddress": "0x95aD61b0a150d79219dCF64E1E6Cc01f0B64C4cE",
+      "name": "SHIBA INU",
+      "decimals": 18,
+      "symbol": "SHIB",
+      "logoURI": "https://tokens.1inch.io/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce.png"
+    },
+    {
       "chainId": 10,
       "globalAddress": "0xE839360768881d1bECC05Bff2CC82176F4304D77",
       "localAddress": { "10": "0xbf9C9beBc589af38909b5b0Ed6CDd899dE1885fF" },
