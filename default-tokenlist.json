@@ -775,7 +775,7 @@
     {
       "chainId": 42161,
       "address": "0xd8E9e0Ed6F6782CbfEE67A1c25C5E514901f4d89",
-      "name": "AraFi Token",
+      "name": "AraFi",
       "symbol": "ARA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_C_150x150px.svg"
@@ -783,16 +783,16 @@
     {
       "chainId": 42161,
       "address": "0xd5Bf08e15A795De5092C20dFe346BC7B5Dffa972",
-      "name": "Ara Wrapped Hermes",
-      "symbol": "aHERMES",
+      "name": "Ara wrapped Hermes",
+      "symbol": "aHermes",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aHermes.svg"
     },
     {
       "chainId": 42161,
       "address": "0x25aC1fE9F1c7f043969F1F912bE0506db4C2e52B",
-      "name": "Ara Wrapped Maia",
-      "symbol": "aMAIA",
+      "name": "Ara wrapped Maia",
+      "symbol": "aMaia",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aMaia.svg"
     }
