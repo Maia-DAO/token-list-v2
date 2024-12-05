@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1732224104",
   "version": {
-    "major": 49,
+    "major": 50,
     "minor": 0,
     "patch": 0
   },
@@ -467,9 +467,9 @@
       "globalAddress": "0x87a7C6fE2D21781A66e9dbb9E60a66c5abE0FBbC",
       "localAddress": { "1088": "0xDE237752bE849058E6E209A0B2Ac65FEbD9518eB" },
       "underlyingAddress": "0x85b70D7e56BC8C4dDD7a5BB30E59b223DA383E34",
-      "name": "AraFi Token",
+      "name": "AraFi Token (old)",
       "decimals": 18,
-      "symbol": "ARA",
+      "symbol": "ARA (old)",
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_C_150x150px.svg"
     },
     {
@@ -477,9 +477,9 @@
       "globalAddress": "0xc557B3aA19F194303924B879d8fe085a67140AeE",
       "localAddress": { "1088": "0xA5A4f39b55dD9B721F13524353F0d96fCb7b96C3" },
       "underlyingAddress": "0x82524ebF9e5e0D793B4Dd3E920Ab430aC94c5F3B",
-      "name": "Ara Wrapped Hermes",
+      "name": "Ara Wrapped Hermes (old)",
       "decimals": 18,
-      "symbol": "aHERMES",
+      "symbol": "aHERMES (old)",
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aHermes.svg"
     },
     {
@@ -487,9 +487,9 @@
       "globalAddress": "0xc5324a5F6AC10Ad356BC04d84bcd3c18ac824076",
       "localAddress": { "1088": "0xe61d2Ce6925DdA73e10DAadaA47f496d0Ca0808e" },
       "underlyingAddress": "0xF37b66C2d84274949FB514079c8CE917157DEcaC",
-      "name": "Ara Wrapped Maia",
+      "name": "Ara Wrapped Maia (old)",
       "decimals": 9,
-      "symbol": "aMAIA",
+      "symbol": "aMAIA (old)",
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aMaia.svg"
     },
     {
