@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1732224104",
   "version": {
-    "major": 50,
+    "major": 51,
     "minor": 0,
     "patch": 0
   },
@@ -1004,7 +1004,7 @@
       "chainId": 42161,
       "address": "0xd5Bf08e15A795De5092C20dFe346BC7B5Dffa972",
       "name": "Ara wrapped Hermes",
-      "symbol": "aHermes",
+      "symbol": "aHERMES",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aHermes.svg"
     },
@@ -1012,7 +1012,7 @@
       "chainId": 42161,
       "address": "0x25aC1fE9F1c7f043969F1F912bE0506db4C2e52B",
       "name": "Ara wrapped Maia",
-      "symbol": "aMaia",
+      "symbol": "aMAIA",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/aMaia.svg"
     },
