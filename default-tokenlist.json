@@ -1,8 +1,8 @@
 {
   "name": "Hermes' Goods",
-  "timestamp": "1732224104",
+  "timestamp": "1737224505",
   "version": {
-    "major": 52,
+    "major": 53,
     "minor": 0,
     "patch": 0
   },
@@ -829,6 +829,66 @@
       "symbol": "XEN",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/AraFiEco/mediapack/main/AraFi_tokenlogo_c150x150px.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0xC2553Ee69827494dbEb187f60024cdc3544727Ad",
+      "localAddress": { "146": "0x15bd1f3D8EF8fa3ab7CffbA981806b9ddB87DcCb" },
+      "underlyingAddress": "0x4D85bA8c3918359c78Ed09581E5bc7578ba932ba",
+      "name": "Staked Sonic USD",
+      "decimals": 6,
+      "symbol": "stkscUSD",
+      "logoURI": "https://sonicscan.org/token/images/beetsstkscusd_32.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0xEE10062703fA6Ef3E87558fbf9f5f6B64B85f19D",
+      "localAddress": { "146": "0x46A1240c5BAe7758379D3c54C3f83ca333D3F45F" },
+      "underlyingAddress": "0x455d5f11Fea33A8fa9D3e285930b478B6bF85265",
+      "name": "Staked Sonic ETH",
+      "decimals": 18,
+      "symbol": "stkscETH",
+      "logoURI": "https://sonicscan.org/token/images/beetsstksceth_32.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0xC9D0fec0c89621CbEd0178e1Ca2e661B13D00B50",
+      "localAddress": { "146": "0x1CDF9C9b7f8328D4b528a61123D365eF9D91E928" },
+      "underlyingAddress": "0xE51EE9868C1f0d6cd968A8B8C8376Dc2991BFE44",
+      "name": "PaintSwap",
+      "decimals": 18,
+      "symbol": "BRUSH",
+      "logoURI": "https://sonicscan.org/token/images/brush_32.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0x72b3D278c609495a3B807913E45269939dC52721",
+      "localAddress": { "146": "0x03f924dF25f5929FE28aE06634A1611C29158be3" },
+      "underlyingAddress": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+      "name": "GOGGLES",
+      "decimals": 18,
+      "symbol": "GOGLZ",
+      "logoURI": "https://sonicscan.org/token/images/goggles_32.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0xBA4F861870dd0CBc5E6dc2Ad9cea4294216953E0",
+      "localAddress": { "146": "0x0460Ecb282eFB60082A928B75d1F0A5d6Bc336fb" },
+      "underlyingAddress": "0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C",
+      "name": "HeyAnon",
+      "decimals": 18,
+      "symbol": "Anon",
+      "logoURI": "https://sonicscan.org/token/images/heyanon_64.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0x44EbD02ac3c3EA373559c34FC4fDfc9abb8bd26e",
+      "localAddress": { "146": "0x634509F1Fb343E2a51808038A7C0AFe140b1B950" },
+      "underlyingAddress": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+      "name": "Beets Staked Sonic",
+      "decimals": 18,
+      "symbol": "stS",
+      "logoURI": "https://sonicscan.org/token/images/sts_32.png"
     }
   ],
   "rootTokens": [
