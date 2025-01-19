@@ -889,6 +889,16 @@
       "decimals": 18,
       "symbol": "stS",
       "logoURI": "https://sonicscan.org/token/images/sts_32.png"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0x522abFbAdd8371385E30AB0Ea5CEc62D6f1b21BB",
+      "localAddress": { "146": "0x5b05C18c3D30b23763891D4Bc27311999b2b8194" },
+      "underlyingAddress": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "name": "Wrapped Sonic",
+      "decimals": 18,
+      "symbol": "wS",
+      "logoURI": "https://sonicscan.org/token/images/wrappedsonic_32.svg"
     }
   ],
   "rootTokens": [
