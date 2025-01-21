@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1737250595",
   "version": {
-    "major": 54,
+    "major": 55,
     "minor": 0,
     "patch": 0
   },
@@ -838,7 +838,7 @@
       "name": "Staked Sonic USD",
       "decimals": 6,
       "symbol": "stkscUSD",
-      "logoURI": "https://sonicscan.org/token/images/beetsstkscusd_32.png"
+      "logoURI": "https://rings.money/assets/scusd.png"
     },
     {
       "chainId": 146,
@@ -848,7 +848,7 @@
       "name": "Staked Sonic ETH",
       "decimals": 18,
       "symbol": "stkscETH",
-      "logoURI": "https://sonicscan.org/token/images/beetsstksceth_32.png"
+      "logoURI": "https://rings.money/assets/sceth.png"
     },
     {
       "chainId": 146,
@@ -858,7 +858,7 @@
       "name": "PaintSwap",
       "decimals": 18,
       "symbol": "BRUSH",
-      "logoURI": "https://sonicscan.org/token/images/brush_32.png"
+      "logoURI": "https://paintswap.io/images/icons/brush_dark.png"
     },
     {
       "chainId": 146,
@@ -868,7 +868,7 @@
       "name": "GOGGLES",
       "decimals": 18,
       "symbol": "GOGLZ",
-      "logoURI": "https://sonicscan.org/token/images/goggles_32.png"
+      "logoURI": "https://i.ibb.co/Ksp9CcT/Goggles.png"
     },
     {
       "chainId": 146,
@@ -878,7 +878,7 @@
       "name": "HeyAnon",
       "decimals": 18,
       "symbol": "Anon",
-      "logoURI": "https://sonicscan.org/token/images/heyanon_64.png"
+      "logoURI": "https://raw.githubusercontent.com/RealWagmi/tokenlists/main/logos/146/0x79bbF4508B1391af3A0F4B30bb5FC4aa9ab0E07C/logo.png"
     },
     {
       "chainId": 146,
@@ -888,7 +888,7 @@
       "name": "Beets Staked Sonic",
       "decimals": 18,
       "symbol": "stS",
-      "logoURI": "https://sonicscan.org/token/images/sts_32.png"
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-beets-staked-sonic.png"
     },
     {
       "chainId": 146,
