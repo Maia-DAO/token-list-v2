@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1737250595",
   "version": {
-    "major": 55,
+    "major": 56,
     "minor": 0,
     "patch": 0
   },
@@ -899,6 +899,16 @@
       "decimals": 18,
       "symbol": "wS",
       "logoURI": "https://sonicscan.org/token/images/wrappedsonic_32.svg"
+    },
+    {
+      "chainId": 146,
+      "globalAddress": "0x1FC5b0d3E5a363aCE36E5aa1146b131E0a252edf",
+      "localAddress": { "146": "0xd97e4bFdB3f0450c8C42Fa00623Ee9dBe1E73a95" },
+      "underlyingAddress": "0x2D0E0814E62D80056181F5cd932274405966e4f0",
+      "name": "Beets",
+      "decimals": 18,
+      "symbol": "BEETS",
+      "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png"
     }
   ],
   "rootTokens": [
@@ -1125,6 +1135,14 @@
       "symbol": "MIM",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/arbitrum/assets/0xFEa7a6a0B346362BF88A9e4A88416B77a57D6c2A/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x28d5116b52eF0668Aa75cAF51f79840999DcCDdd",
+      "name": "AUSD Token",
+      "symbol": "AUSD",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/39146/standard/rsz_64036a48422e3abd31bca6b2_agio-logo-a_1-p-1080.png?1720766707"
     }
   ]
 }
