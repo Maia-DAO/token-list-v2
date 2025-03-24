@@ -909,6 +909,26 @@
       "decimals": 18,
       "symbol": "BEETS",
       "logoURI": "https://beethoven-assets.s3.eu-central-1.amazonaws.com/token-BEETS-sonic.png"
+    },
+    {
+      "chainId": 80094,
+      "globalAddress": "0x42e236b2433A04D6687aF507aD23be3DbBf57945",
+      "localAddress": { "362": "0x6d4c20f6E27F5399888E25260b7a0e77e8f4d80d" },
+      "underlyingAddress": "0x6969696969696969696969696969696969696969",
+      "name": "Wrapped Bera",
+      "decimals": 18,
+      "symbol": "WBERA",
+      "logoURI": "https://assets.coingecko.com/coins/images/54219/standard/BERA_(2).png?1738848488"
+    },
+    {
+      "chainId": 80094,
+      "globalAddress": "0x5876A0f3fACEc718aA3961c0ABa0027e14c421CA",
+      "localAddress": { "362": "0x01126187EAA7f590580738823D16C1bd25D7C77A" },
+      "underlyingAddress": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     }
   ],
   "rootTokens": [
