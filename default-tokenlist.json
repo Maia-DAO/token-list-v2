@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1737250595",
   "version": {
-    "major": 58,
+    "major": 59,
     "minor": 0,
     "patch": 0
   },
@@ -913,7 +913,7 @@
     {
       "chainId": 80094,
       "globalAddress": "0x42e236b2433A04D6687aF507aD23be3DbBf57945",
-      "localAddress": { "362": "0x6d4c20f6E27F5399888E25260b7a0e77e8f4d80d" },
+      "localAddress": { "80094": "0x6d4c20f6E27F5399888E25260b7a0e77e8f4d80d" },
       "underlyingAddress": "0x6969696969696969696969696969696969696969",
       "name": "Wrapped Bera",
       "decimals": 18,
@@ -923,7 +923,7 @@
     {
       "chainId": 80094,
       "globalAddress": "0x5876A0f3fACEc718aA3961c0ABa0027e14c421CA",
-      "localAddress": { "362": "0x01126187EAA7f590580738823D16C1bd25D7C77A" },
+      "localAddress": { "80094": "0x01126187EAA7f590580738823D16C1bd25D7C77A" },
       "underlyingAddress": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
       "name": "Wrapped Ether",
       "decimals": 18,
