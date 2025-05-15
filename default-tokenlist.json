@@ -603,6 +603,26 @@
       "logoURI": "https://assets.coingecko.com/coins/images/20764/standard/reth.png?1696520159"
     },
     {
+      "chainId": 252,
+      "globalAddress": "0x38B980B513934A678F05BC4115F64A568AfD90f7",
+      "localAddress": { "252": "0xdc490c00F81Deba525Bb5460660F799E72d9Bca7" },
+      "underlyingAddress": "0xFc00000000000000000000000000000000000002",
+      "name": "Wrapped Frax",
+      "decimals": 18,
+      "symbol": "WFRAX",
+      "logoURI": "https://fraxscan.com/token/images/wfrax_64.png"
+    },
+    {
+      "chainId": 1923,
+      "globalAddress": "0xD3A4608982Be16c20561cEAe37146C660C44700c",
+      "localAddress": { "1923": "0xCc74BDF637fAAA6717270E2491b274B158bC5ea9" },
+      "underlyingAddress": "0x4200000000000000000000000000000000000006",
+      "name": "Wrapped Ether",
+      "decimals": 18,
+      "symbol": "WETH",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/c6108b1a2708c01a8c637b80e0f69e77085d4174/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
       "chainId": 11155111,
       "globalAddress": "0x34CA145f38aBff21679B958fA067DBF3c021a60D",
       "underlyingAddress": "0x34CA145f38aBff21679B958fA067DBF3c021a60D",
