@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1737250595",
   "version": {
-    "major": 61,
+    "major": 62,
     "minor": 0,
     "patch": 0
   },
@@ -1163,6 +1163,14 @@
       "symbol": "FRAX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/refs/heads/master/blockchains/ethereum/assets/0x853d955aCEf822Db058eb8505911ED77F175b99e/logo.png"
+    },
+    {
+      "chainId": 42161,
+      "address": "0x178412e79c25968a32e89b11f63B33F733770c2A",
+      "name": "Frax Ether",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "logoURI": "https://fraxscan.com/token/images/frxeth_64.png"
     },
     {
       "chainId": 42161,
