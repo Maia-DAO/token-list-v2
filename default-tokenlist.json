@@ -2,7 +2,7 @@
   "name": "Hermes' Goods",
   "timestamp": "1737250595",
   "version": {
-    "major": 60,
+    "major": 61,
     "minor": 0,
     "patch": 0
   },
@@ -611,6 +611,26 @@
       "decimals": 18,
       "symbol": "WFRAX",
       "logoURI": "https://fraxscan.com/token/images/wfrax_64.png"
+    },
+    {
+      "chainId": 252,
+      "globalAddress": "0xa4ecA97F730F06863BAF2f0526c8c140f7BF0065",
+      "localAddress": { "252": "0xa8768cC3220457322674592CF8d5C8b541510029" },
+      "underlyingAddress": "0xFC00000000000000000000000000000000000005",
+      "name": "Staked Frax Ether",
+      "decimals": 18,
+      "symbol": "sfrxETH",
+      "logoURI": "https://fraxscan.com/token/images/sfrxeth2_32.png"
+    },
+    {
+      "chainId": 252,
+      "globalAddress": "0x25cB221674DA7144fDbf8918e111b47c8e02a6CE",
+      "localAddress": { "252": "0x5AA82E672e31bb936abdaa527fb643B0BEcf1A13" },
+      "underlyingAddress": "0xFC00000000000000000000000000000000000006",
+      "name": "Frax Ether",
+      "decimals": 18,
+      "symbol": "frxETH",
+      "logoURI": "https://fraxscan.com/token/images/frxeth_64.png"
     },
     {
       "chainId": 1923,
